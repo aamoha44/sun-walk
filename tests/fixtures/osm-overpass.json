@@ -1,0 +1,78 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2026-08-01T00:00:00Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "way", "id": 1001,
+      "geometry": [{"lat": 33.4200, "lon": -111.9340}, {"lat": 33.4210, "lon": -111.9340}],
+      "tags": {"highway": "footway", "surface": "concrete", "lit": "yes", "name": "Palm Walk"}
+    },
+    {
+      "type": "way", "id": 1002,
+      "geometry": [{"lat": 33.4200, "lon": -111.9330}, {"lat": 33.4200, "lon": -111.9310}],
+      "tags": {"highway": "steps", "step_count": "14", "handrail": "yes", "bridge": "yes", "layer": "1"}
+    },
+    {
+      "type": "way", "id": 1003,
+      "geometry": [{"lat": 33.4190, "lon": -111.9340}, {"lat": 33.4190, "lon": -111.9320}],
+      "tags": {"highway": "service", "foot": "no"}
+    },
+    {
+      "type": "way", "id": 1004,
+      "geometry": [{"lat": 33.4180, "lon": -111.9340}, {"lat": 33.4180, "lon": -111.9325}],
+      "tags": {"highway": "service", "foot": "yes", "surface": "asphalt"}
+    },
+    {
+      "type": "way", "id": 1005,
+      "geometry": [{"lat": 33.4170, "lon": -111.9340}, {"lat": 33.4170, "lon": -111.9320}],
+      "tags": {"highway": "residential", "sidewalk": "both", "foot": "yes"}
+    },
+    {
+      "type": "way", "id": 1006,
+      "geometry": [{"lat": 33.4160, "lon": -111.9340}, {"lat": 33.4160, "lon": -111.9330}],
+      "tags": {"highway": "residential", "foot": "yes"}
+    },
+    {
+      "type": "way", "id": 1007,
+      "geometry": [{"lat": 33.4150, "lon": -111.9340}, {"lat": 33.4150, "lon": -111.9310}],
+      "tags": {"highway": "primary", "lanes": "2"}
+    },
+    {
+      "type": "way", "id": 1008,
+      "geometry": [
+        {"lat": 33.4205, "lon": -111.9345}, {"lat": 33.4205, "lon": -111.9342},
+        {"lat": 33.4208, "lon": -111.9342}, {"lat": 33.4205, "lon": -111.9345}
+      ],
+      "tags": {"area:highway": "footway", "surface": "paving_stones"}
+    },
+    {
+      "type": "way", "id": 1009,
+      "geometry": [
+        {"lat": 33.4215, "lon": -111.9350}, {"lat": 33.4215, "lon": -111.9347},
+        {"lat": 33.4218, "lon": -111.9347}, {"lat": 33.4218, "lon": -111.9350},
+        {"lat": 33.4215, "lon": -111.9350}
+      ],
+      "tags": {"highway": "pedestrian", "area": "yes", "name": "MU Forecourt"}
+    },
+    {
+      "type": "node", "id": 2001, "lat": 33.4200, "lon": -111.9335,
+      "tags": {"highway": "crossing", "crossing": "traffic_signals"}
+    },
+    {
+      "type": "node", "id": 2002, "lat": 33.4210, "lon": -111.9341,
+      "tags": {"entrance": "main"}
+    },
+    {
+      "type": "node", "id": 2003, "lat": 33.4195, "lon": -111.9333,
+      "tags": {"barrier": "bollard"}
+    },
+    {
+      "type": "node", "id": 2004, "lat": 33.4188, "lon": -111.9339,
+      "tags": {"amenity": "bench"}
+    }
+  ]
+}

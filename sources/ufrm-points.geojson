@@ -1,0 +1,6917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929409,
+          33.421313
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "054A",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BLDG II SUPPORT",
+        "BLDG_NUMBER": "054A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "848 S. McALLISTER AVENUE",
+        "BLDG_GSF": 5850,
+        "BLDG_HEIGHT_FT": 25.08333333,
+        "BLDG_MAP_NUMBER": "54A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:054A",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928094,
+          33.427287
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "066A",
+        "BLDG_NAME": "TICKETS/CONCESSIONS AT PACKARD STADIUM",
+        "BLDG_NUMBER": "066A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "201 S. PACKARD DRIVE",
+        "BLDG_GSF": 290,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "66A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:066A",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934358,
+          33.418351
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "077X",
+        "BLDG_NAME": "TEMPE CAMPUS INFRASTRUCTURE",
+        "BLDG_NUMBER": "077X",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1551 S. RURAL RD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "077X",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:077X",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925845,
+          33.426844
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "128H",
+        "BLDG_NAME": "SOUTH STORAGE",
+        "BLDG_NUMBER": "128H",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "371 S. RURAL ROAD",
+        "BLDG_GSF": 244,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "128H",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:128H",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93306,
+          33.428123
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "134A",
+        "BLDG_NAME": "SDS ICE PRODUCTION",
+        "BLDG_NUMBER": "134A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 1591,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "134A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:134A",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92669,
+          33.416565
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "173J",
+        "BLDG_NAME": "BARRETT COLLEGE FIRE PUMP HOUSE",
+        "BLDG_NUMBER": "173J",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 E. LEMON ST.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "173J",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:173J",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924004,
+          33.411705
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "176",
+        "BLDG_NAME": "GROUNDS MAINTENANCE FACILITY",
+        "BLDG_NUMBER": "176",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1420 S. JEN TILLY LANE",
+        "BLDG_GSF": 2862,
+        "BLDG_HEIGHT_FT": 17.75,
+        "BLDG_MAP_NUMBER": "176",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:176",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.91841,
+          33.425358
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "183",
+        "BLDG_NAME": "RECREATION AND SPORTS FIELDS RESTROOM",
+        "BLDG_NUMBER": "183",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "510 S. DORSEY LN.",
+        "BLDG_GSF": 924,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "183",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:183",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923436,
+          33.411561
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "186A",
+        "BLDG_NAME": "BRIX APARTMENTS A",
+        "BLDG_NUMBER": "186A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1424 S. JENTILLY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "186A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:186A",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92396,
+          33.41133
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "186B",
+        "BLDG_NAME": "BRIX APARTMENTS B",
+        "BLDG_NUMBER": "186B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1424 S. JENTILLY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "186B",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:186B",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930053,
+          33.415347
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ACACI",
+        "BLDG_NAME": "HAV- ACACIA HALL",
+        "BLDG_NUMBER": "160E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 43018,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "160E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ACACI",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927609,
+          33.41628
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ACHAL",
+        "BLDG_NAME": "HAV- ACOURTIA HALL",
+        "BLDG_NUMBER": "163C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "711 E. LEMON STREET",
+        "BLDG_GSF": 138731,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "163C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ACHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927121,
+          33.413178
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADELA",
+        "BLDG_NAME": "ADELPHI II COMMONS EAST",
+        "BLDG_NUMBER": "159A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1339 S. SUNSET DR.",
+        "BLDG_GSF": 33163,
+        "BLDG_HEIGHT_FT": 36,
+        "BLDG_MAP_NUMBER": "159A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADELA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927595,
+          33.413178
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADELB",
+        "BLDG_NAME": "ADELPHI II COMMONS WEST",
+        "BLDG_NUMBER": "159B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1342 S. SUNSET DR.",
+        "BLDG_GSF": 33171,
+        "BLDG_HEIGHT_FT": 36,
+        "BLDG_MAP_NUMBER": "159B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADELB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927621,
+          33.413514
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADELC",
+        "BLDG_NAME": "ADELPHI II COMMONS COMMUNITY CENTER",
+        "BLDG_NUMBER": "159C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1342 S. SUNSET DR.",
+        "BLDG_GSF": 4864,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "159C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADELC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927579,
+          33.414087
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADELE",
+        "BLDG_NAME": "ADELPHI COMMONS (East)",
+        "BLDG_NUMBER": "157A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 14758,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADELE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927952,
+          33.413254
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADELS",
+        "BLDG_NAME": "ADELPHI COMMONS (South)",
+        "BLDG_NUMBER": "157E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 14779,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADELS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927931,
+          33.413802
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADEMF",
+        "BLDG_NAME": "ADELPHI COMMONS (Mail Facility)",
+        "BLDG_NUMBER": "157F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 6655,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADEMF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927772,
+          33.414466
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADENE",
+        "BLDG_NAME": "ADELPHI COMMONS (Northeast)",
+        "BLDG_NUMBER": "157B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 12316,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADENE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928299,
+          33.414148
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADENW",
+        "BLDG_NAME": "ADELPHI COMMONS (Northwest)",
+        "BLDG_NUMBER": "157C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 21557,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADENW",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928298,
+          33.413334
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ADESW",
+        "BLDG_NAME": "ADELPHI COMMONS (Southwest)",
+        "BLDG_NUMBER": "157D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "739 E. APACHE BLVD. (1310 S. SUNSET DRIVE)",
+        "BLDG_GSF": 18976,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "157D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ADESW",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928507,
+          33.415209
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "AGVHAL",
+        "BLDG_NAME": "BARRETT COLLEGE AGAVE HALL",
+        "BLDG_NUMBER": "173B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "720 E. APACHE BLVD.",
+        "BLDG_GSF": 103825,
+        "BLDG_HEIGHT_FT": 75.33333333,
+        "BLDG_MAP_NUMBER": "173B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:AGVHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923451,
+          33.425392
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ALBER",
+        "BLDG_NAME": "FARRINGTON SOFTBALL STADIUM",
+        "BLDG_NUMBER": "153",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "510 S. ATHLETES PLACE",
+        "BLDG_GSF": 40531,
+        "BLDG_HEIGHT_FT": 39,
+        "BLDG_MAP_NUMBER": "153",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ALBER",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934719,
+          33.423847
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ANX",
+        "BLDG_NAME": "THE ANNEX",
+        "BLDG_NUMBER": "060",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "615 S. COLLEGE AVENUE",
+        "BLDG_GSF": 8685,
+        "BLDG_HEIGHT_FT": 15.75,
+        "BLDG_MAP_NUMBER": "60",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ANX",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924253,
+          33.423495
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "APMA",
+        "BLDG_NAME": "ASU PERFORMING & MEDIA ARTS",
+        "BLDG_NUMBER": "R41",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "970 E. UNIVERSITY DR.",
+        "BLDG_GSF": 25503,
+        "BLDG_HEIGHT_FT": 28.83333333,
+        "BLDG_MAP_NUMBER": "R41",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:APMA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934087,
+          33.423936
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "AQUAT",
+        "BLDG_NAME": "MONA PLUMMER AQUATIC COMPLEX",
+        "BLDG_NUMBER": "071",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "601 S. COLLEGE AVENUE",
+        "BLDG_GSF": 24345,
+        "BLDG_HEIGHT_FT": 35.16666667,
+        "BLDG_MAP_NUMBER": "71",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:AQUAT",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929458,
+          33.41551
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ARHAL",
+        "BLDG_NAME": "HAV- ARROYO HALL",
+        "BLDG_NUMBER": "160B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 48436,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "160B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ARHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92944,
+          33.417837
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ARM",
+        "BLDG_NAME": "ARMSTRONG HALL",
+        "BLDG_NUMBER": "043",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1100 S. McALLISTER AVENUE",
+        "BLDG_GSF": 105232,
+        "BLDG_HEIGHT_FT": 27.58333333,
+        "BLDG_MAP_NUMBER": "43",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ARM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93733,
+          33.420492
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ART",
+        "BLDG_NAME": "ART BLDG.",
+        "BLDG_NUMBER": "087",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "900 S. FOREST MALL",
+        "BLDG_GSF": 72480,
+        "BLDG_HEIGHT_FT": 64.66666667,
+        "BLDG_MAP_NUMBER": "87",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ART",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937801,
+          33.42093
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ARWH",
+        "BLDG_NAME": "ART WAREHOUSE",
+        "BLDG_NUMBER": "094",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. MYRTLE AVENUE",
+        "BLDG_GSF": 12908,
+        "BLDG_HEIGHT_FT": 14.5,
+        "BLDG_MAP_NUMBER": "94",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ARWH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934439,
+          33.414382
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ASUPD",
+        "BLDG_NAME": "ASU POLICE",
+        "BLDG_NUMBER": "168",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "325 E. APACHE BLVD.",
+        "BLDG_GSF": 43681,
+        "BLDG_HEIGHT_FT": 42,
+        "BLDG_MAP_NUMBER": "168",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ASUPD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934509,
+          33.41662
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BA",
+        "BLDG_NAME": "BUSINESS ADMINISTRATION",
+        "BLDG_NUMBER": "040",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "300 E. LEMON STREET",
+        "BLDG_GSF": 131797,
+        "BLDG_HEIGHT_FT": 56,
+        "BLDG_MAP_NUMBER": "40",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933841,
+          33.416548
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BAC",
+        "BLDG_NAME": "BUSINESS ADMINISTRATION C WING",
+        "BLDG_NUMBER": "040C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "400 E. LEMON STREET",
+        "BLDG_GSF": 121440,
+        "BLDG_HEIGHT_FT": 100,
+        "BLDG_MAP_NUMBER": "40C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924122,
+          33.42555
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BBTS",
+        "BLDG_NAME": "BAND BLDG., TOILETS & STORAGE",
+        "BLDG_NUMBER": "097",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 S. RURAL ROAD",
+        "BLDG_GSF": 3877,
+        "BLDG_HEIGHT_FT": 12,
+        "BLDG_MAP_NUMBER": "97",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BBTS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92835,
+          33.41901
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BDA",
+        "BLDG_NAME": "BIODESIGN INSTITUTE BLDG A",
+        "BLDG_NUMBER": "104A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1001 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 183460,
+        "BLDG_HEIGHT_FT": 78,
+        "BLDG_MAP_NUMBER": "104A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BDA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928393,
+          33.419702
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BDB",
+        "BLDG_NAME": "BIODESIGN INSTITUTE BLDG B",
+        "BLDG_NUMBER": "104B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "727 E. TYLER STREET",
+        "BLDG_GSF": 179559,
+        "BLDG_HEIGHT_FT": 78,
+        "BLDG_MAP_NUMBER": "104B",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BDB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92735,
+          33.419982
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BDC",
+        "BLDG_NAME": "BIODESIGN INSTITUTE BLDG C",
+        "BLDG_NUMBER": "104C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "797 E. TYLER ST.",
+        "BLDG_GSF": 191035,
+        "BLDG_HEIGHT_FT": 95,
+        "BLDG_MAP_NUMBER": "104C",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BDC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930784,
+          33.417904
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BDH",
+        "BLDG_NAME": "BULLDOG HALL",
+        "BLDG_NUMBER": "041",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "611 E. ORANGE STREET",
+        "BLDG_GSF": 84189,
+        "BLDG_HEIGHT_FT": 28.5,
+        "BLDG_MAP_NUMBER": "41",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BDH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931834,
+          33.417786
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BKSTR",
+        "BLDG_NAME": "BOOKSTORE",
+        "BLDG_NUMBER": "039",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "525 E. ORANGE STREET",
+        "BLDG_GSF": 45224,
+        "BLDG_HEIGHT_FT": 24.66666667,
+        "BLDG_MAP_NUMBER": "39",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BKSTR",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923658,
+          33.425861
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BRO",
+        "BLDG_NAME": "BRO SOFTBALL HITTING FACILITY",
+        "BLDG_NUMBER": "153A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "465 S. RURAL ROAD",
+        "BLDG_GSF": 3222,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "153A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BRO",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92816,
+          33.428478
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BTPS",
+        "BLDG_NAME": "BATTING TUNNELS @ PACKARD STADIUM",
+        "BLDG_NUMBER": "X24",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "201 S. PACKARD DRIVE",
+        "BLDG_GSF": 8158,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X24",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BTPS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938892,
+          33.423488
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BYAC",
+        "BLDG_NAME": "ARTISAN COURT AT THE BRICKYARD",
+        "BLDG_NUMBER": "R10B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "30 E. 7TH ST.",
+        "BLDG_GSF": 21818,
+        "BLDG_HEIGHT_FT": 35,
+        "BLDG_MAP_NUMBER": "R10B",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BYAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939496,
+          33.423603
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BYENG",
+        "BLDG_NAME": "BANK OF AMERICA AT THE BRICKYARD",
+        "BLDG_NUMBER": "R10A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "699 S. MILL AVE.",
+        "BLDG_GSF": 205199,
+        "BLDG_HEIGHT_FT": 96.16666667,
+        "BLDG_MAP_NUMBER": "R10A",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BYENG",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938717,
+          33.424009
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "BYOH",
+        "BLDG_NAME": "ORCHIDHOUSE AT THE BRICKYARD",
+        "BLDG_NUMBER": "R10C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "21 E. 6TH ST.",
+        "BLDG_GSF": 185172,
+        "BLDG_HEIGHT_FT": 106.33333333,
+        "BLDG_MAP_NUMBER": "R10C",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:BYOH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934583,
+          33.422894
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CAM",
+        "BLDG_NAME": "COLLEGE AVENUE MARKET PLACE",
+        "BLDG_NUMBER": "R11A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "777 S. COLLEGE AVENUE",
+        "BLDG_GSF": 21160,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "R11A",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CAM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935612,
+          33.423529
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CAVC",
+        "BLDG_NAME": "COLLEGE AVENUE COMMONS",
+        "BLDG_NUMBER": "178",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "660 S. COLLEGE AVE.",
+        "BLDG_GSF": 148829,
+        "BLDG_HEIGHT_FT": 88.66666667,
+        "BLDG_MAP_NUMBER": "178",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CAVC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937067,
+          33.421443
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CDN",
+        "BLDG_NAME": "DESIGN NORTH",
+        "BLDG_NUMBER": "127",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "810 S. FOREST MALL",
+        "BLDG_GSF": 111635,
+        "BLDG_HEIGHT_FT": 59.66666667,
+        "BLDG_MAP_NUMBER": "127",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CDN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937081,
+          33.421011
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CDS",
+        "BLDG_NAME": "DESIGN SOUTH",
+        "BLDG_NUMBER": "088",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "850 S. FOREST MALL",
+        "BLDG_GSF": 63238,
+        "BLDG_HEIGHT_FT": 51,
+        "BLDG_MAP_NUMBER": "88",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CDS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927534,
+          33.415178
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CERHAL",
+        "BLDG_NAME": "BARRETT COLLEGE CEREUS HALL",
+        "BLDG_NUMBER": "173C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "820 E. APACHE BLVD.",
+        "BLDG_GSF": 94151,
+        "BLDG_HEIGHT_FT": 75.33333333,
+        "BLDG_MAP_NUMBER": "173C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CERHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936285,
+          33.421022
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CFS",
+        "BLDG_NAME": "CENTER FOR FAMILY STUDIES",
+        "BLDG_NUMBER": "017",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. FOREST MALL",
+        "BLDG_GSF": 9703,
+        "BLDG_HEIGHT_FT": 27,
+        "BLDG_MAP_NUMBER": "17",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CFS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935326,
+          33.418497
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CHAPL",
+        "BLDG_NAME": "DANFORTH CHAPEL",
+        "BLDG_NUMBER": "008",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1050 S. CADY MALL",
+        "BLDG_GSF": 1629,
+        "BLDG_HEIGHT_FT": 23.5,
+        "BLDG_MAP_NUMBER": "8",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CHAPL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924675,
+          33.419873
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CHILD",
+        "BLDG_NAME": "CAMPUS CHILDRENS CENTER",
+        "BLDG_NUMBER": "145",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "910 S. TERRACE ROAD",
+        "BLDG_GSF": 8825,
+        "BLDG_HEIGHT_FT": 13.41666667,
+        "BLDG_MAP_NUMBER": "145",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CHILD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928411,
+          33.416961
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CHPF",
+        "BLDG_NAME": "COMBINED HEAT AND POWER FACILITY",
+        "BLDG_NUMBER": "135",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "740 E. LEMON ST.",
+        "BLDG_GSF": 73352,
+        "BLDG_HEIGHT_FT": 53,
+        "BLDG_MAP_NUMBER": "135",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CHPF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930004,
+          33.415103
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CHUPA",
+        "BLDG_NAME": "HAV- CHUPAROSA HALL",
+        "BLDG_NUMBER": "160D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 56669,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "160D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CHUPA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937294,
+          33.419352
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "COOR",
+        "BLDG_NAME": "COOR HALL",
+        "BLDG_NUMBER": "065",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "976 S. FOREST MALL",
+        "BLDG_GSF": 282946,
+        "BLDG_HEIGHT_FT": 112,
+        "BLDG_MAP_NUMBER": "65",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:COOR",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935572,
+          33.421033
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "COWDN",
+        "BLDG_NAME": "COWDEN FAMILY RESOURCES BLDG.",
+        "BLDG_NUMBER": "016",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "850 S. CADY MALL",
+        "BLDG_GSF": 34171,
+        "BLDG_HEIGHT_FT": 37.33333333,
+        "BLDG_MAP_NUMBER": "16",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:COWDN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933548,
+          33.419086
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CP",
+        "BLDG_NAME": "CENTRAL PLANT",
+        "BLDG_NUMBER": "015",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "452 E. ORANGE STREET",
+        "BLDG_GSF": 45305,
+        "BLDG_HEIGHT_FT": 45,
+        "BLDG_MAP_NUMBER": "15",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CP",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92866,
+          33.41127
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CPS",
+        "BLDG_NAME": "CENTRAL PLANT SOUTH",
+        "BLDG_NUMBER": "137",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1601 S. McALLISTER AVENUE",
+        "BLDG_GSF": 15886,
+        "BLDG_HEIGHT_FT": 21.33333333,
+        "BLDG_MAP_NUMBER": "137",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CPS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932389,
+          33.417833
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CRTVC",
+        "BLDG_NAME": "CREATIVITY COMMONS",
+        "BLDG_NUMBER": "136",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. ORANGE STREET",
+        "BLDG_GSF": 132518,
+        "BLDG_HEIGHT_FT": 76.66666667,
+        "BLDG_MAP_NUMBER": "136",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CRTVC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932931,
+          33.425339
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CSAC",
+        "BLDG_NAME": "CARSON STUDENT ATHLETE CENTER",
+        "BLDG_NUMBER": "059B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. VETERAN'S WAY",
+        "BLDG_GSF": 167066,
+        "BLDG_HEIGHT_FT": 97.66666667,
+        "BLDG_MAP_NUMBER": "59B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CSAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926937,
+          33.415241
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "CWHAL",
+        "BLDG_NAME": "BARRETT COLLEGE COTTONWOOD HALL",
+        "BLDG_NUMBER": "173D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "850 E. APACHE BLVD.",
+        "BLDG_GSF": 69473,
+        "BLDG_HEIGHT_FT": 65.33333333,
+        "BLDG_MAP_NUMBER": "173D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:CWHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930994,
+          33.424502
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "DFA",
+        "BLDG_NAME": "DESERT FINANCIAL ARENA",
+        "BLDG_NUMBER": "069",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "600 E. VETERANS WAY",
+        "BLDG_GSF": 230259,
+        "BLDG_HEIGHT_FT": 67,
+        "BLDG_MAP_NUMBER": "69",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:DFA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934531,
+          33.42092
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "DH",
+        "BLDG_NAME": "DURHAM HALL",
+        "BLDG_NUMBER": "012",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. CADY MALL",
+        "BLDG_GSF": 142601,
+        "BLDG_HEIGHT_FT": 142.66666667,
+        "BLDG_MAP_NUMBER": "12",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:DH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935525,
+          33.416468
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "DISCVRY",
+        "BLDG_NAME": "DISCOVERY HALL",
+        "BLDG_NUMBER": "044",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "250 E. LEMON STREET",
+        "BLDG_GSF": 44203,
+        "BLDG_HEIGHT_FT": 42,
+        "BLDG_MAP_NUMBER": "44",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:DISCVRY",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932198,
+          33.418683
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECA",
+        "BLDG_NAME": "ENGINEERING CENTER A",
+        "BLDG_NUMBER": "053A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1031 S. PALM WALK",
+        "BLDG_GSF": 55033,
+        "BLDG_HEIGHT_FT": 36,
+        "BLDG_MAP_NUMBER": "53A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93233,
+          33.418805
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECANX",
+        "BLDG_NAME": "ENGINEERING CENTER ANNEX",
+        "BLDG_NUMBER": "140",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1021 S. PALM WALK",
+        "BLDG_GSF": 7761,
+        "BLDG_HEIGHT_FT": 24,
+        "BLDG_MAP_NUMBER": "140",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECANX",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932201,
+          33.418958
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECB",
+        "BLDG_NAME": "ENGINEERING CENTER B",
+        "BLDG_NUMBER": "053B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1011 S. PALM WALK",
+        "BLDG_GSF": 16185,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "53B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932187,
+          33.419136
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECC",
+        "BLDG_NAME": "ENGINEERING CENTER C",
+        "BLDG_NUMBER": "053C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1001 S. PALM WALK",
+        "BLDG_GSF": 16584,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "53C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932204,
+          33.419315
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECD",
+        "BLDG_NAME": "ENGINEERING CENTER D",
+        "BLDG_NUMBER": "053D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "971 S. PALM WALK",
+        "BLDG_GSF": 16360,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "53D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932152,
+          33.4195
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECE",
+        "BLDG_NAME": "ENGINEERING CENTER E",
+        "BLDG_NUMBER": "053E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "961 S. PALM WALK",
+        "BLDG_GSF": 15981,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "53E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932192,
+          33.419672
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECF",
+        "BLDG_NAME": "ENGINEERING CENTER F",
+        "BLDG_NUMBER": "053F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "951 S. PALM WALK",
+        "BLDG_GSF": 16897,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "53F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932088,
+          33.420014
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ECG",
+        "BLDG_NAME": "ENGINEERING CENTER G",
+        "BLDG_NUMBER": "053G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. TYLER MALL",
+        "BLDG_GSF": 78268,
+        "BLDG_HEIGHT_FT": 50.16666667,
+        "BLDG_MAP_NUMBER": "53G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ECG",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937242,
+          33.418049
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ED",
+        "BLDG_NAME": "FARMER EDUCATION BLDG.",
+        "BLDG_NUMBER": "006A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1050 S. FOREST MALL",
+        "BLDG_GSF": 95944,
+        "BLDG_HEIGHT_FT": 53.25,
+        "BLDG_MAP_NUMBER": "6A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ED",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937245,
+          33.418876
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "EDB",
+        "BLDG_NAME": "PAYNE HALL",
+        "BLDG_NUMBER": "006B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1000 S. FOREST MALL",
+        "BLDG_GSF": 94898,
+        "BLDG_HEIGHT_FT": 68.5,
+        "BLDG_MAP_NUMBER": "6B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:EDB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937846,
+          33.417902
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "EDC",
+        "BLDG_NAME": "EDUCATION LECTURE HALL",
+        "BLDG_NUMBER": "006C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "100 E. GAMMAGE PARKWAY",
+        "BLDG_GSF": 7481,
+        "BLDG_HEIGHT_FT": 25,
+        "BLDG_MAP_NUMBER": "6C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:EDC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931404,
+          33.4198
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ENGRC",
+        "BLDG_NAME": "ENGINEERING RESEARCH CENTER",
+        "BLDG_NUMBER": "063",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "551 E. TYLER MALL",
+        "BLDG_GSF": 151637,
+        "BLDG_HEIGHT_FT": 116,
+        "BLDG_MAP_NUMBER": "63",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ENGRC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938366,
+          33.418639
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "FAC",
+        "BLDG_NAME": "NELSON FINE ARTS CENTER",
+        "BLDG_NUMBER": "048",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "51 E. 10TH STREET",
+        "BLDG_GSF": 144086,
+        "BLDG_HEIGHT_FT": 98,
+        "BLDG_MAP_NUMBER": "48",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:FAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922791,
+          33.426825
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "FMMEY",
+        "BLDG_NAME": "FM MATERIALS AND EQUIPMENT YARD",
+        "BLDG_NUMBER": "128",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "381 S. RURAL ROAD",
+        "BLDG_GSF": 7837,
+        "BLDG_HEIGHT_FT": 15.33333333,
+        "BLDG_MAP_NUMBER": "128",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:FMMEY",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934454,
+          33.422258
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "FULTN",
+        "BLDG_NAME": "FULTON CENTER",
+        "BLDG_NUMBER": "R11",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "300 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 163959,
+        "BLDG_HEIGHT_FT": 90,
+        "BLDG_MAP_NUMBER": "R11",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:FULTN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937828,
+          33.416406
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GGMA",
+        "BLDG_NAME": "GRADY GAMMAGE MEMORIAL AUDITORIUM",
+        "BLDG_NUMBER": "001",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1200 S. FOREST AVENUE",
+        "BLDG_GSF": 150097,
+        "BLDG_HEIGHT_FT": 85.08333333,
+        "BLDG_MAP_NUMBER": "1",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GGMA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93618,
+          33.419096
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GHALL",
+        "BLDG_NAME": "DIXIE GAMMAGE HALL",
+        "BLDG_NUMBER": "009",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1001 S. FOREST MALL",
+        "BLDG_GSF": 23549,
+        "BLDG_HEIGHT_FT": 26,
+        "BLDG_MAP_NUMBER": "9",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GHALL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925114,
+          33.418787
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GLVA",
+        "BLDG_NAME": "GREEK LEADERSHIP VILLAGE - BLDG A",
+        "BLDG_NUMBER": "182A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "975 S. RURAL RD.",
+        "BLDG_GSF": 112177,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "182A",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GLVA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925304,
+          33.41804
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GLVB",
+        "BLDG_NAME": "GREEK LEADERSHIP VILLAGE - BLDG B",
+        "BLDG_NUMBER": "182B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "975 S. RURAL RD.",
+        "BLDG_GSF": 99935,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "182B",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GLVB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925935,
+          33.418738
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GLVC",
+        "BLDG_NAME": "GREEK LEADERSHIP VILLAGE - BLDG C",
+        "BLDG_NUMBER": "182C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "975 S. RURAL RD.",
+        "BLDG_GSF": 75556,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "182C",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GLVC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925885,
+          33.419555
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GLVCC",
+        "BLDG_NAME": "GLV COMMUNITY CENTER",
+        "BLDG_NUMBER": "182",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "915 S. RURAL RD.",
+        "BLDG_GSF": 33146,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "182",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GLVCC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925462,
+          33.418479
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GLVD",
+        "BLDG_NAME": "GREEK LEADERSHIP VILLAGE - BLDG D",
+        "BLDG_NUMBER": "182D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "975 S. RURAL RD.",
+        "BLDG_GSF": 44957,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "182D",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GLVD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925884,
+          33.428013
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GPC",
+        "BLDG_NAME": "GOLF PERFORMANCE CENTER",
+        "BLDG_NUMBER": "128G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "251 S. RURAL RD.",
+        "BLDG_GSF": 1847,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "128G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GPC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930463,
+          33.420783
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "GWC",
+        "BLDG_NAME": "GOLDWATER CENTER FOR SCIENCE & ENGINEERING",
+        "BLDG_NUMBER": "085",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "650 E. TYLER MALL",
+        "BLDG_GSF": 219608,
+        "BLDG_HEIGHT_FT": 106,
+        "BLDG_MAP_NUMBER": "85",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:GWC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93575,
+          33.415011
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HAYDN",
+        "BLDG_NAME": "HAYDEN HALL",
+        "BLDG_NUMBER": "014",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "250 E. APACHE BOULEVARD",
+        "BLDG_GSF": 30934,
+        "BLDG_HEIGHT_FT": 35,
+        "BLDG_MAP_NUMBER": "14",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HAYDN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93644,
+          33.423506
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HBH",
+        "BLDG_NAME": "HARRINGTON-BIRCHETT HOUSE",
+        "BLDG_NUMBER": "141A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "202 E. 7TH STREET",
+        "BLDG_GSF": 1510,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "141A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HBH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932055,
+          33.420995
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HELM",
+        "BLDG_NAME": "HELIUM RECOVERY SHED - ADJ 57B&C",
+        "BLDG_NUMBER": "X18",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "875 S. PALM WALK",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X18",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HELM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935386,
+          33.415215
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HHE",
+        "BLDG_NAME": "HAYDEN HALL EAST",
+        "BLDG_NUMBER": "014E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1260 S. COLLEGE AVENUE",
+        "BLDG_GSF": 32294,
+        "BLDG_HEIGHT_FT": 34,
+        "BLDG_MAP_NUMBER": "14E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HHE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936115,
+          33.415177
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HHW",
+        "BLDG_NAME": "HAYDEN HALL WEST",
+        "BLDG_NUMBER": "014W",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1251 S. FOREST AVENUE",
+        "BLDG_GSF": 27792,
+        "BLDG_HEIGHT_FT": 34,
+        "BLDG_MAP_NUMBER": "14W",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HHW",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92584,
+          33.426956
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HOBBS",
+        "BLDG_NAME": "HOBBS HOUSE",
+        "BLDG_NUMBER": "128D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "371 S. RURAL ROAD",
+        "BLDG_GSF": 2646,
+        "BLDG_HEIGHT_FT": 15,
+        "BLDG_MAP_NUMBER": "128D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HOBBS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927378,
+          33.415744
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HONHAL",
+        "BLDG_NAME": "BARRETT COLLEGE HONORS HALL",
+        "BLDG_NUMBER": "173H",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "821 E. LEMON MALL",
+        "BLDG_GSF": 46523,
+        "BLDG_HEIGHT_FT": 24.33333333,
+        "BLDG_MAP_NUMBER": "173H",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HONHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933012,
+          33.421344
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "HSB",
+        "BLDG_NAME": "HEALTH SERVICE",
+        "BLDG_NUMBER": "025",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "451 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 36904,
+        "BLDG_HEIGHT_FT": 23,
+        "BLDG_MAP_NUMBER": "25",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:HSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935489,
+          33.417635
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "INTDSA",
+        "BLDG_NAME": "INTERDISCIPLINARY A",
+        "BLDG_NUMBER": "002",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1100 S. CADY MALL",
+        "BLDG_GSF": 28332,
+        "BLDG_HEIGHT_FT": 24.66666667,
+        "BLDG_MAP_NUMBER": "2",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:INTDSA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935229,
+          33.417497
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "INTDSA",
+        "BLDG_NAME": "INTERDISCIPLINARY A OUTDOOR ROOM",
+        "BLDG_NUMBER": "X002A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1100 S. CADY MALL",
+        "BLDG_GSF": 752,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X002A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:INTDSA",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935606,
+          33.417233
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "INTDSB",
+        "BLDG_NAME": "INTERDISCIPLINARY B",
+        "BLDG_NUMBER": "003",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1120 S. CADY MALL",
+        "BLDG_GSF": 62941,
+        "BLDG_HEIGHT_FT": 39,
+        "BLDG_MAP_NUMBER": "3",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:INTDSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935241,
+          33.41567
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "IRISH",
+        "BLDG_NAME": "IRISH HALL A (ACADEMIC OFFICES)",
+        "BLDG_NUMBER": "026A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1250 S. COLLEGE AVENUE",
+        "BLDG_GSF": 12911,
+        "BLDG_HEIGHT_FT": 23.5,
+        "BLDG_MAP_NUMBER": "26A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:IRISH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935557,
+          33.415916
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "IRISH",
+        "BLDG_NAME": "IRISH HALL B (NORTHWEST)",
+        "BLDG_NUMBER": "026B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1250 S. COLLEGE AVENUE",
+        "BLDG_GSF": 11742,
+        "BLDG_HEIGHT_FT": 23.5,
+        "BLDG_MAP_NUMBER": "26B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:IRISH",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935556,
+          33.415424
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "IRISH",
+        "BLDG_NAME": "IRISH HALL C (SOUTHWEST)",
+        "BLDG_NUMBER": "026C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1250 S. COLLEGE AVENUE",
+        "BLDG_GSF": 11742,
+        "BLDG_HEIGHT_FT": 23.5,
+        "BLDG_MAP_NUMBER": "26C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:IRISH",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931391,
+          33.418849
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ISTB1",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING I",
+        "BLDG_NUMBER": "108",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "550 E. ORANGE STREET",
+        "BLDG_GSF": 193294,
+        "BLDG_HEIGHT_FT": 86,
+        "BLDG_MAP_NUMBER": "108",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ISTB1",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929587,
+          33.421014
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ISTB2",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING II",
+        "BLDG_NUMBER": "054",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "850 S. McALLISTER AVENUE",
+        "BLDG_GSF": 71248,
+        "BLDG_HEIGHT_FT": 51.08333333,
+        "BLDG_MAP_NUMBER": "54",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ISTB2",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928387,
+          33.418016
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ISTB4",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING 4",
+        "BLDG_NUMBER": "075",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "781 E. TERRACE MALL",
+        "BLDG_GSF": 327256,
+        "BLDG_HEIGHT_FT": 154.5,
+        "BLDG_MAP_NUMBER": "75",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ISTB4",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931014,
+          33.420793
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ISTB5",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING V",
+        "BLDG_NUMBER": "072",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "600 E. TYLER MALL",
+        "BLDG_GSF": 49662,
+        "BLDG_HEIGHT_FT": 35,
+        "BLDG_MAP_NUMBER": "72",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ISTB5",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926939,
+          33.421518
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ISTB7",
+        "BLDG_NAME": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING 7",
+        "BLDG_NUMBER": "079",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "828 S. RURAL ROAD (777 E. UNIVERSITY DRIVE)",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "079",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ISTB7",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926635,
+          33.41557
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "JNHAL",
+        "BLDG_NAME": "BARRETT COLLEGE JUNIPER HALL",
+        "BLDG_NUMBER": "173E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1250 S. RURAL RD.",
+        "BLDG_GSF": 64971,
+        "BLDG_HEIGHT_FT": 65.33333333,
+        "BLDG_MAP_NUMBER": "173E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:JNHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929454,
+          33.415134
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "JOBA",
+        "BLDG_NAME": "HAV- JOJOBA HALL",
+        "BLDG_NUMBER": "160C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 42875,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "160C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:JOBA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937366,
+          33.42009
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L01",
+        "BLDG_NAME": "ANTENNA - STAUFFER HALL WEST",
+        "BLDG_NUMBER": "L01",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "950 S. FOREST MALL",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L01",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L01",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934122,
+          33.423869
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L03",
+        "BLDG_NAME": "AQUATIC COMPLEX - MAIN AREA",
+        "BLDG_NUMBER": "L03",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "601 S. COLLEGE AVENUE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L03",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L03",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925017,
+          33.426118
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L04",
+        "BLDG_NAME": "N.E. FIELDS - KAJIKAWA FOOTBALL PRACTICE FIELDS",
+        "BLDG_NUMBER": "L04",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "499 S. RURAL RD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L04",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L04",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922262,
+          33.425847
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L05",
+        "BLDG_NAME": "N.E. FIELDS - BAND PRACTICE FIELD",
+        "BLDG_NUMBER": "L05",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "411 S. RURAL RD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L05",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L05",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923271,
+          33.425475
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L07",
+        "BLDG_NAME": "N.E. FIELDS - SOFTBALL",
+        "BLDG_NUMBER": "L07",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "510 S. ATHLETES PLACE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L07",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L07",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92789,
+          33.426634
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L09",
+        "BLDG_NAME": "SUN ANGEL STADIUM - YARD",
+        "BLDG_NUMBER": "L09",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "401 S. PACKARD DRIVE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L09",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L09",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931622,
+          33.419395
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L14",
+        "BLDG_NAME": "ENGINEERING GAS CANISTER STOR.",
+        "BLDG_NUMBER": "L14",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "551 E. TYLER MALL",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L14",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L14",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926819,
+          33.41232
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L16",
+        "BLDG_NAME": "SONORA - EAST AREA",
+        "BLDG_NUMBER": "L16",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1480 S. RURAL RD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L16",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L16",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935948,
+          33.424031
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L167",
+        "BLDG_NAME": "213/215 E. SIXTH ST.",
+        "BLDG_NUMBER": "L167",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "213/215 E. SIXTH ST.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L167",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L167",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92561,
+          33.418569
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L17",
+        "BLDG_NAME": "CHOLLA HALL POOL - COURTYARD",
+        "BLDG_NUMBER": "L17",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "909 S. TERRACE ROAD",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L17",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L17",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.921891,
+          33.424555
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L19",
+        "BLDG_NAME": "SOCCER & LACROSSE FIELD",
+        "BLDG_NUMBER": "L19",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "655 S. ATHLETES PLACE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L19",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L19",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930152,
+          33.425428
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L20",
+        "BLDG_NAME": "DESERT ARBORETUM PARK",
+        "BLDG_NUMBER": "L20",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "556 S. PACKARD DRIVE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L20",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L20",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.921785,
+          33.423852
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L22",
+        "BLDG_NAME": "GROUNDS FENCED YARD 'BONEYARD'",
+        "BLDG_NUMBER": "L22",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "675 S. ATHLETES PLACE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L22",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L22",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.921648,
+          33.425437
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L28",
+        "BLDG_NAME": "US WEATHER STATION",
+        "BLDG_NUMBER": "L28",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "505 S. RURAL ROAD",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L28",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L28",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923308,
+          33.426445
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L31",
+        "BLDG_NAME": "T-MOBILE MONOPALM AT KARSTEN GC",
+        "BLDG_NUMBER": "L31",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1125 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L31",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L31",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.920735,
+          33.424608
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L34",
+        "BLDG_NAME": "FIELD 1",
+        "BLDG_NUMBER": "L34",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "520 S. DORSEY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L34",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L34",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.919787,
+          33.424611
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L35",
+        "BLDG_NAME": "FIELD 2",
+        "BLDG_NUMBER": "L35",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "530 S. DORSEY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L35",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L35",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.918793,
+          33.424597
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L36",
+        "BLDG_NAME": "FIELD 3",
+        "BLDG_NUMBER": "L36",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "540 S. DORSEY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L36",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L36",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.919117,
+          33.426316
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "L37",
+        "BLDG_NAME": "FIELD 4",
+        "BLDG_NUMBER": "L37",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "450 S. DORSEY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L37",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:L37",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934849,
+          33.419013
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LIB",
+        "BLDG_NAME": "HAYDEN LIBRARY",
+        "BLDG_NUMBER": "010",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "300 E. ORANGE MALL",
+        "BLDG_GSF": 344899,
+        "BLDG_HEIGHT_FT": 49.83333333,
+        "BLDG_MAP_NUMBER": "10",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LIB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933143,
+          33.419875
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LSA",
+        "BLDG_NAME": "LIFE SCIENCES CENTER A",
+        "BLDG_NUMBER": "056A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "451 E. TYLER MALL",
+        "BLDG_GSF": 87142,
+        "BLDG_HEIGHT_FT": 49.41666667,
+        "BLDG_MAP_NUMBER": "56A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LSA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933369,
+          33.419612
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LSB",
+        "BLDG_NAME": "LIFE SCIENCES CENTER B-ANIMAL CARE",
+        "BLDG_NUMBER": "056B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "425 E. TYLER MALL",
+        "BLDG_GSF": 8982,
+        "BLDG_HEIGHT_FT": 37.58333333,
+        "BLDG_MAP_NUMBER": "56B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93375,
+          33.419993
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LSC",
+        "BLDG_NAME": "LIFE SCIENCES CENTER C",
+        "BLDG_NUMBER": "056C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "401 E. TYLER MALL",
+        "BLDG_GSF": 117562,
+        "BLDG_HEIGHT_FT": 83.33333333,
+        "BLDG_MAP_NUMBER": "56C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LSC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933176,
+          33.419551
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LSD",
+        "BLDG_NAME": "LIFE SCIENCES CENTER D-AQUATIC TERRESTRIAL",
+        "BLDG_NUMBER": "056D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "435 E. TYLER MALL",
+        "BLDG_GSF": 5166,
+        "BLDG_HEIGHT_FT": 26.16666667,
+        "BLDG_MAP_NUMBER": "56D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LSD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933815,
+          33.419514
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LSE",
+        "BLDG_NAME": "LIFE SCIENCES TOWER E-WING",
+        "BLDG_NUMBER": "056E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "427 E. TYLER MALL",
+        "BLDG_GSF": 204349,
+        "BLDG_HEIGHT_FT": 161,
+        "BLDG_MAP_NUMBER": "56E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LSE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936396,
+          33.42053
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "LYC",
+        "BLDG_NAME": "LYCEUM THEATRE",
+        "BLDG_NUMBER": "027",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "901 S. FOREST MALL",
+        "BLDG_GSF": 11985,
+        "BLDG_HEIGHT_FT": 67,
+        "BLDG_MAP_NUMBER": "27",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:LYC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933985,
+          33.420537
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MAIN",
+        "BLDG_NAME": "OLD MAIN",
+        "BLDG_NUMBER": "032",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "400 E. TYLER MALL",
+        "BLDG_GSF": 45017,
+        "BLDG_HEIGHT_FT": 66,
+        "BLDG_MAP_NUMBER": "32",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MAIN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930059,
+          33.422467
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MANZH",
+        "BLDG_NAME": "MANZANITA HALL",
+        "BLDG_NUMBER": "061",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "600 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 216526,
+        "BLDG_HEIGHT_FT": 163.25,
+        "BLDG_MAP_NUMBER": "61",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MANZH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930587,
+          33.422829
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MANZY",
+        "BLDG_NAME": "MANZY CAFE",
+        "BLDG_NUMBER": "103",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "561 E. VETERAN'S WAY",
+        "BLDG_GSF": 2528,
+        "BLDG_HEIGHT_FT": 16,
+        "BLDG_MAP_NUMBER": "103",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MANZY",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936059,
+          33.415665
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MB",
+        "BLDG_NAME": "BEST HALL C",
+        "BLDG_NUMBER": "038C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. FOREST AVENUE",
+        "BLDG_GSF": 48188,
+        "BLDG_HEIGHT_FT": 50,
+        "BLDG_MAP_NUMBER": "38C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936123,
+          33.415417
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MB",
+        "BLDG_NAME": "BEST HALL B",
+        "BLDG_NUMBER": "038B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. FOREST AVENUE",
+        "BLDG_GSF": 19300,
+        "BLDG_HEIGHT_FT": 29.5,
+        "BLDG_MAP_NUMBER": "38B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MB",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936126,
+          33.415906
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MB",
+        "BLDG_NAME": "BEST HALL A",
+        "BLDG_NUMBER": "038A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. FOREST AVENUE",
+        "BLDG_GSF": 18835,
+        "BLDG_HEIGHT_FT": 29.5,
+        "BLDG_MAP_NUMBER": "38A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MB",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93547,
+          33.419929
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MCENT",
+        "BLDG_NAME": "MATTHEWS CENTER",
+        "BLDG_NUMBER": "034",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "950 S. CADY MALL",
+        "BLDG_GSF": 74180,
+        "BLDG_HEIGHT_FT": 67,
+        "BLDG_MAP_NUMBER": "34",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MCENT",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936087,
+          33.419697
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MCL",
+        "BLDG_NAME": "MCCLINTOCK HALL",
+        "BLDG_NUMBER": "028",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "951 S. FOREST MALL",
+        "BLDG_GSF": 49108,
+        "BLDG_HEIGHT_FT": 32.5,
+        "BLDG_MAP_NUMBER": "28",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MCL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933252,
+          33.416739
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MCRD",
+        "BLDG_NAME": "MCCORD HALL",
+        "BLDG_NUMBER": "040D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "450 E. LEMON ST.",
+        "BLDG_GSF": 140092,
+        "BLDG_HEIGHT_FT": 70,
+        "BLDG_MAP_NUMBER": "40D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MCRD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936116,
+          33.420111
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MHALL",
+        "BLDG_NAME": "MATTHEWS HALL",
+        "BLDG_NUMBER": "033",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "925 S. FOREST MALL",
+        "BLDG_GSF": 17132,
+        "BLDG_HEIGHT_FT": 28,
+        "BLDG_MAP_NUMBER": "33",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MHALL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936168,
+          33.41794
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MOEUR",
+        "BLDG_NAME": "MOEUR BLDG.",
+        "BLDG_NUMBER": "037",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "201 E. ORANGE MALL",
+        "BLDG_GSF": 33739,
+        "BLDG_HEIGHT_FT": 34,
+        "BLDG_MAP_NUMBER": "37",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MOEUR",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938597,
+          33.421242
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MRBLA",
+        "BLDG_NAME": "ASU AT MIRABELLA",
+        "BLDG_NUMBER": "R78",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "65 E. UNIVERSITY DR.; TEMPE; AZ; 85287",
+        "BLDG_GSF": 9898,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "R78",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MRBLA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925583,
+          33.41067
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MSB",
+        "BLDG_NAME": "MATERIAL SERVICES BLDG.",
+        "BLDG_NUMBER": "131",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL ROAD",
+        "BLDG_GSF": 27992,
+        "BLDG_HEIGHT_FT": 17.5,
+        "BLDG_MAP_NUMBER": "131",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928883,
+          33.416233
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MSHAL",
+        "BLDG_NAME": "HAV- MESQUITE HALL",
+        "BLDG_NUMBER": "163A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "711 E. LEMON STREET",
+        "BLDG_GSF": 63348,
+        "BLDG_HEIGHT_FT": 77.33333333,
+        "BLDG_MAP_NUMBER": "163A",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MSHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929207,
+          33.416069
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MSHAL",
+        "BLDG_NAME": "HAV- MESQUITE OUTDOOR ROOM",
+        "BLDG_NUMBER": "X163A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "711 E. LEMON STREET",
+        "BLDG_GSF": 1016,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X163A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MSHAL",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934351,
+          33.417692
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MU",
+        "BLDG_NAME": "MEMORIAL UNION",
+        "BLDG_NUMBER": "035",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "301 E. ORANGE MALL",
+        "BLDG_GSF": 272278,
+        "BLDG_HEIGHT_FT": 50.66666667,
+        "BLDG_MAP_NUMBER": "35",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MU",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933141,
+          33.418629
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MUR",
+        "BLDG_NAME": "MURDOCK LECTURE HALL",
+        "BLDG_NUMBER": "021",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "450 E. ORANGE MALL",
+        "BLDG_GSF": 25139,
+        "BLDG_HEIGHT_FT": 40,
+        "BLDG_MAP_NUMBER": "21",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MUR",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939015,
+          33.418036
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MUSIC",
+        "BLDG_NAME": "MUSIC BLDG.",
+        "BLDG_NUMBER": "084",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "50 E. GAMMAGE PARKWAY",
+        "BLDG_GSF": 179167,
+        "BLDG_HEIGHT_FT": 72,
+        "BLDG_MAP_NUMBER": "84",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MUSIC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929602,
+          33.415787
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "MVHAL",
+        "BLDG_NAME": "HAV- MOHAVE HALL",
+        "BLDG_NUMBER": "160A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1201 S. MCALLISTER AVENUE",
+        "BLDG_GSF": 74682,
+        "BLDG_HEIGHT_FT": 77.33333333,
+        "BLDG_MAP_NUMBER": "160A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:MVHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932022,
+          33.423725
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "NCP",
+        "BLDG_NAME": "NORTHERN CHILLER PLANT",
+        "BLDG_NUMBER": "181",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "511 E. VETERAN'S WAY",
+        "BLDG_GSF": 10183,
+        "BLDG_HEIGHT_FT": 50,
+        "BLDG_MAP_NUMBER": "181",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:NCP",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936895,
+          33.420314
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "NEEB",
+        "BLDG_NAME": "NEEB HALL",
+        "BLDG_NUMBER": "086",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "920 S. FOREST MALL",
+        "BLDG_GSF": 9309,
+        "BLDG_HEIGHT_FT": 28,
+        "BLDG_MAP_NUMBER": "86",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:NEEB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930647,
+          33.419929
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "NOBLE",
+        "BLDG_NAME": "NOBLE SCIENCE LIBRARY",
+        "BLDG_NUMBER": "047",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "601 E. TYLER MALL",
+        "BLDG_GSF": 101262,
+        "BLDG_HEIGHT_FT": 58.58333333,
+        "BLDG_MAP_NUMBER": "47",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:NOBLE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927031,
+          33.422969
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "NVS1",
+        "BLDG_NAME": "777 TOWER AT NOVUS",
+        "BLDG_NUMBER": "R99",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "777 S. NOVUS PLACE",
+        "BLDG_GSF": 84133,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "R99",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:NVS1",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.9313,
+          33.422858
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PABLO",
+        "BLDG_NAME": "SAN PABLO RESIDENCE HALL",
+        "BLDG_NUMBER": "151",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "555 E. VETERAN'S WAY",
+        "BLDG_GSF": 77484,
+        "BLDG_HEIGHT_FT": 34.08333333,
+        "BLDG_MAP_NUMBER": "151",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PABLO",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931339,
+          33.422439
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PABLO",
+        "BLDG_NAME": "SAN PABLO RESIDENCE HALL (CLASSROOM)",
+        "BLDG_NUMBER": "151A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "555 E. VETERAN'S WAY",
+        "BLDG_GSF": 2466,
+        "BLDG_HEIGHT_FT": 16.16666667,
+        "BLDG_MAP_NUMBER": "151A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PABLO",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927793,
+          33.427795
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PBS",
+        "BLDG_NAME": "PACKARD BASEBALL STADIUM",
+        "BLDG_NUMBER": "066",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "201 S. PACKARD DRIVE",
+        "BLDG_GSF": 51999,
+        "BLDG_HEIGHT_FT": 45.16666667,
+        "BLDG_MAP_NUMBER": "66",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PBS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934022,
+          33.415483
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS1",
+        "BLDG_NAME": "APACHE BLVD. PARKING STRUCTURE (APACHE & COLLEGE)",
+        "BLDG_NUMBER": "P01",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "401 E. LEMON STREET",
+        "BLDG_GSF": 433918,
+        "BLDG_HEIGHT_FT": 27,
+        "BLDG_MAP_NUMBER": "P01",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS1",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928241,
+          33.420714
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS2",
+        "BLDG_NAME": "TYLER STREET PARKING STRUCTURE (McALLISTER & TYLER)",
+        "BLDG_NUMBER": "P02",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "901 S. McALLISTER AVENUE",
+        "BLDG_GSF": 237238,
+        "BLDG_HEIGHT_FT": 35,
+        "BLDG_MAP_NUMBER": "P02",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS2",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937766,
+          33.420188
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS3",
+        "BLDG_NAME": "10TH STREET PARKING STRUCTURE (MYRTLE AVENUE)",
+        "BLDG_NUMBER": "P03",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "901 S. MYRTLE AVENUE",
+        "BLDG_GSF": 157113,
+        "BLDG_HEIGHT_FT": 57,
+        "BLDG_MAP_NUMBER": "P03",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS3",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927224,
+          33.417656
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS4",
+        "BLDG_NAME": "RURAL ROAD PARKING STRUCTURE (RURAL ROAD)",
+        "BLDG_NUMBER": "P04",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1100 S. RURAL ROAD",
+        "BLDG_GSF": 711604,
+        "BLDG_HEIGHT_FT": 37,
+        "BLDG_MAP_NUMBER": "P04",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS4",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932914,
+          33.424114
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS5",
+        "BLDG_NAME": "STADIUM PARKING STRUCTURE (VETERANS WAY)",
+        "BLDG_NUMBER": "P05",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "401 E. VETERAN'S WAY",
+        "BLDG_GSF": 445744,
+        "BLDG_HEIGHT_FT": 37,
+        "BLDG_MAP_NUMBER": "P05",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS5",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936093,
+          33.424722
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS6",
+        "BLDG_NAME": "UNIVERSITY TOWERS PARKING STRUCTURE (TOWERS)",
+        "BLDG_NUMBER": "P06",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "214 E. SIXTH STREET",
+        "BLDG_GSF": 105250,
+        "BLDG_HEIGHT_FT": 34.33333333,
+        "BLDG_MAP_NUMBER": "P06",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS6",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92871,
+          33.425481
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS7",
+        "BLDG_NAME": "PACKARD DRIVE SOUTH PARKING STRUCTURE (PACKARD & 6TH)",
+        "BLDG_NUMBER": "P07",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "555 S. PACKARD DR.",
+        "BLDG_GSF": 557217,
+        "BLDG_HEIGHT_FT": 57.08333333,
+        "BLDG_MAP_NUMBER": "P07",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS7",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928565,
+          33.422867
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PS8",
+        "BLDG_NAME": "NOVUS PARKING STRUCTURE",
+        "BLDG_NUMBER": "P08",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "747 E. PACKARD DRIVE",
+        "BLDG_GSF": 655234,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "P08",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PS8",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932165,
+          33.42085
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSB",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER B",
+        "BLDG_NUMBER": "057B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "875 S. PALM WALK",
+        "BLDG_GSF": 48577,
+        "BLDG_HEIGHT_FT": 50.66666667,
+        "BLDG_MAP_NUMBER": "57B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932157,
+          33.421143
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSC",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER C",
+        "BLDG_NUMBER": "057C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. PALM WALK",
+        "BLDG_GSF": 54527,
+        "BLDG_HEIGHT_FT": 50.66666667,
+        "BLDG_MAP_NUMBER": "57C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932552,
+          33.421224
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSC",
+        "BLDG_NAME": "PHYSICAL SCIENCES C OUTDOOR ROOM",
+        "BLDG_NUMBER": "X057A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. PALM WALK",
+        "BLDG_GSF": 1016,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X057A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSC",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932136,
+          33.421375
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSD",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER D",
+        "BLDG_NUMBER": "057D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "825 S. PALM WALK",
+        "BLDG_GSF": 65867,
+        "BLDG_HEIGHT_FT": 49.16666667,
+        "BLDG_MAP_NUMBER": "57D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932433,
+          33.421624
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSE",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER E",
+        "BLDG_NUMBER": "057E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 24653,
+        "BLDG_HEIGHT_FT": 52.66666667,
+        "BLDG_MAP_NUMBER": "57E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931394,
+          33.420954
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSF",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER F",
+        "BLDG_NUMBER": "057F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "550 E. TYLER MALL",
+        "BLDG_GSF": 179449,
+        "BLDG_HEIGHT_FT": 100.66666667,
+        "BLDG_MAP_NUMBER": "57F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931502,
+          33.421383
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSG",
+        "BLDG_NAME": "BATEMAN CHEMICAL STORAGE BUILDING (G)",
+        "BLDG_NUMBER": "057G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "551 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 7736,
+        "BLDG_HEIGHT_FT": 21,
+        "BLDG_MAP_NUMBER": "57G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSG",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931663,
+          33.421644
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSH",
+        "BLDG_NAME": "BATEMAN PHYSICAL SCIENCES CENTER H",
+        "BLDG_NUMBER": "057H",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "525 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 131710,
+        "BLDG_HEIGHT_FT": 85.5,
+        "BLDG_MAP_NUMBER": "57H",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927204,
+          33.427337
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSHED",
+        "BLDG_NAME": "PACKARD STADIUM SHED (NW)",
+        "BLDG_NUMBER": "627",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "201 S. PACKARD DRIVE",
+        "BLDG_GSF": 103,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "627",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSHED",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929549,
+          33.419877
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSY",
+        "BLDG_NAME": "PSYCHOLOGY BLDG.",
+        "BLDG_NUMBER": "013",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "950 S. McALLISTER AVENUE",
+        "BLDG_GSF": 84885,
+        "BLDG_HEIGHT_FT": 45,
+        "BLDG_MAP_NUMBER": "13",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSY",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929554,
+          33.420631
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PSYN",
+        "BLDG_NAME": "PSYCHOLOGY NORTH",
+        "BLDG_NUMBER": "031A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "900 S. McALLISTER AVENUE",
+        "BLDG_GSF": 65907,
+        "BLDG_HEIGHT_FT": 45,
+        "BLDG_MAP_NUMBER": "31A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PSYN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93204,
+          33.422493
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PVE",
+        "BLDG_NAME": "PALO VERDE EAST (F)",
+        "BLDG_NUMBER": "051F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "510 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 106440,
+        "BLDG_HEIGHT_FT": 77.5,
+        "BLDG_MAP_NUMBER": "51F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PVE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933588,
+          33.422479
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PVW",
+        "BLDG_NAME": "PALO VERDE WEST (G)",
+        "BLDG_NUMBER": "051G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "430 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 111304,
+        "BLDG_HEIGHT_FT": 77.5,
+        "BLDG_MAP_NUMBER": "51G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PVW",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933031,
+          33.420533
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PWH",
+        "BLDG_NAME": "PIPER WRITERS HOUSE",
+        "BLDG_NUMBER": "042",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "450 E. TYLER MALL",
+        "BLDG_GSF": 4314,
+        "BLDG_HEIGHT_FT": 31,
+        "BLDG_MAP_NUMBER": "42",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PWH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93273,
+          33.421983
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "PWOP",
+        "BLDG_NAME": "PALM WALK OVERPASS",
+        "BLDG_NUMBER": "015B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "452 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 2416,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "15B",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:PWOP",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929642,
+          33.417124
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RBHL",
+        "BLDG_NAME": "ROSS-BLAKLEY HALL",
+        "BLDG_NUMBER": "143",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1102 S. McALLISTER AVENUE",
+        "BLDG_GSF": 67299,
+        "BLDG_HEIGHT_FT": 60,
+        "BLDG_MAP_NUMBER": "143",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RBHL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927654,
+          33.424818
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RFPF",
+        "BLDG_NAME": "ROBSON FAMILY PLAYER FACILITY",
+        "BLDG_NUMBER": "096A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "800 E. 6TH STREET",
+        "BLDG_GSF": 9932,
+        "BLDG_HEIGHT_FT": 20,
+        "BLDG_MAP_NUMBER": "96A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RFPF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934298,
+          33.423004
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RP01",
+        "BLDG_NAME": "FULTON CENTER PARKING STRUCTURE",
+        "BLDG_NUMBER": "RP01",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "717 S. COLLEGE AVENUE",
+        "BLDG_GSF": 405083,
+        "BLDG_HEIGHT_FT": 44.33333333,
+        "BLDG_MAP_NUMBER": "RP01",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RP01",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938699,
+          33.423742
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RP02",
+        "BLDG_NAME": "BRICKYARD PARKING GARAGE",
+        "BLDG_NUMBER": "RP02",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "699 S. MILL AVE.",
+        "BLDG_GSF": 281432,
+        "BLDG_HEIGHT_FT": 63.25,
+        "BLDG_MAP_NUMBER": "RP02",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RP02",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924589,
+          33.4106
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RRO",
+        "BLDG_NAME": "1711 S. RURAL RD - T-FRAME E",
+        "BLDG_NUMBER": "X03",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL ROAD",
+        "BLDG_GSF": 681,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X03",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RRO",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924528,
+          33.410616
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RROB",
+        "BLDG_NAME": "1711 S. RURAL RD - BLDG B",
+        "BLDG_NUMBER": "132",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL ROAD",
+        "BLDG_GSF": 12387,
+        "BLDG_HEIGHT_FT": 28.66666667,
+        "BLDG_MAP_NUMBER": "132",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RROB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924667,
+          33.410249
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RROC",
+        "BLDG_NAME": "1711 S. RURAL RD - BLDG D",
+        "BLDG_NUMBER": "133",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL ROAD",
+        "BLDG_GSF": 10485,
+        "BLDG_HEIGHT_FT": 18,
+        "BLDG_MAP_NUMBER": "133",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RROC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924706,
+          33.410425
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RROD",
+        "BLDG_NAME": "1711 S. RURAL RD - T-FRAME C",
+        "BLDG_NUMBER": "X02",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL ROAD",
+        "BLDG_GSF": 3666,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X02",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RROD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928662,
+          33.421543
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RSS1",
+        "BLDG_NAME": "RESEARCH SUPPORT SERVICES 1",
+        "BLDG_NUMBER": "018",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. McALLISTER AVENUE",
+        "BLDG_GSF": 14968,
+        "BLDG_HEIGHT_FT": 21.5,
+        "BLDG_MAP_NUMBER": "18",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RSS1",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926657,
+          33.41627
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "RWHAL",
+        "BLDG_NAME": "BARRETT COLLEGE ROSEWOOD HALL",
+        "BLDG_NUMBER": "173F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1180 S. RURAL RD.",
+        "BLDG_GSF": 74312,
+        "BLDG_HEIGHT_FT": 48,
+        "BLDG_MAP_NUMBER": "173F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:RWHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922159,
+          33.42795
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SAC",
+        "BLDG_NAME": "SUN ANGEL CLUBHOUSE",
+        "BLDG_NUMBER": "128C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1125 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 22625,
+        "BLDG_HEIGHT_FT": 38.5,
+        "BLDG_MAP_NUMBER": "128C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932179,
+          33.427464
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SAF",
+        "BLDG_NAME": "STUDENT ATHLETE FACILITY",
+        "BLDG_NUMBER": "059K",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "555 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 136514,
+        "BLDG_HEIGHT_FT": 53,
+        "BLDG_MAP_NUMBER": "59K",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SAF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92752,
+          33.411967
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SCD",
+        "BLDG_NAME": "SONORA CENTER",
+        "BLDG_NUMBER": "139",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1480 S. RURAL RD.",
+        "BLDG_GSF": 127331,
+        "BLDG_HEIGHT_FT": 91.66666667,
+        "BLDG_MAP_NUMBER": "139",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SCD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930584,
+          33.418988
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SCOB",
+        "BLDG_NAME": "SCHWADA CLASSROOM OFFICE BLDG.",
+        "BLDG_NUMBER": "055",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "620 E. ORANGE STREET",
+        "BLDG_GSF": 126985,
+        "BLDG_HEIGHT_FT": 51,
+        "BLDG_MAP_NUMBER": "55",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SCOB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930241,
+          33.41859
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SCOB",
+        "BLDG_NAME": "SCHWADA OUTDOOR ROOM",
+        "BLDG_NUMBER": "X055A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "620 E. ORANGE STREET",
+        "BLDG_GSF": 752,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X055A",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SCOB",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932426,
+          33.415448
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SDFCT",
+        "BLDG_NAME": "SUN DEVIL FITNESS COMPLEX",
+        "BLDG_NUMBER": "046",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. APACHE BOULEVARD",
+        "BLDG_GSF": 254766,
+        "BLDG_HEIGHT_FT": 47.83333333,
+        "BLDG_MAP_NUMBER": "46",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SDFCT",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931415,
+          33.416663
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SDFCTF",
+        "BLDG_NAME": "SDFC INTRAMURAL FIELDS",
+        "BLDG_NUMBER": "L46",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. LEMON MALL",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "L46",
+        "ExtractDateTime": 1629237713000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SDFCTF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933098,
+          33.417803
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SDH",
+        "BLDG_NAME": "SUN DEVIL HALL",
+        "BLDG_NUMBER": "036",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "451 E. ORANGE MALL",
+        "BLDG_GSF": 59959,
+        "BLDG_HEIGHT_FT": 54.5,
+        "BLDG_MAP_NUMBER": "36",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SDH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932377,
+          33.42824
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SDSN",
+        "BLDG_NAME": "SUN DEVIL STADIUM-NORTH LOCKER BLDG",
+        "BLDG_NUMBER": "134",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 11680,
+        "BLDG_HEIGHT_FT": 15.66666667,
+        "BLDG_MAP_NUMBER": "134",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SDSN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92377,
+          33.424281
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SDSP",
+        "BLDG_NAME": "SUN DEVIL SPORTS PERFORMANCE",
+        "BLDG_NUMBER": "158",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "650 S. ATHLETES PLACE",
+        "BLDG_GSF": 24048,
+        "BLDG_HEIGHT_FT": 27.33333333,
+        "BLDG_MAP_NUMBER": "158",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SDSP",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928353,
+          33.415516
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SGHAL",
+        "BLDG_NAME": "BARRETT COLLEGE SAGE HALL",
+        "BLDG_NUMBER": "173A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "751 E. LEMON MALL (789 E. LEMON MALL)",
+        "BLDG_GSF": 89298,
+        "BLDG_HEIGHT_FT": 55.33333333,
+        "BLDG_MAP_NUMBER": "173A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SGHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935487,
+          33.420574
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SHESC",
+        "BLDG_NAME": "SCHOOL OF HUMAN EVOLUTION AND SOCIAL CHANGE",
+        "BLDG_NUMBER": "004",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "900 S. CADY MALL",
+        "BLDG_GSF": 49078,
+        "BLDG_HEIGHT_FT": 54.33333333,
+        "BLDG_MAP_NUMBER": "4",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SHESC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922405,
+          33.424557
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SLSTDM",
+        "BLDG_NAME": "SOCCER & LACROSSE STADIUM",
+        "BLDG_NUMBER": "154",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "655 S. ATHLETES PLACE",
+        "BLDG_GSF": 20804,
+        "BLDG_HEIGHT_FT": 17,
+        "BLDG_MAP_NUMBER": "154",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SLSTDM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928023,
+          33.412702
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SONX",
+        "BLDG_NAME": "SONORA ANNEX",
+        "BLDG_NUMBER": "138",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1450 S. RURAL RD.",
+        "BLDG_GSF": 3203,
+        "BLDG_HEIGHT_FT": 31.5,
+        "BLDG_MAP_NUMBER": "138",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SONX",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934481,
+          33.419924
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SS",
+        "BLDG_NAME": "SOCIAL SCIENCES BLDG.",
+        "BLDG_NUMBER": "005",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "951 S. CADY MALL",
+        "BLDG_GSF": 87673,
+        "BLDG_HEIGHT_FT": 45.33333333,
+        "BLDG_MAP_NUMBER": "5",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936233,
+          33.416979
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "SSV",
+        "BLDG_NAME": "STUDENT SERVICES BLDG.",
+        "BLDG_NUMBER": "045",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1151 S. FOREST AVENUE",
+        "BLDG_GSF": 118966,
+        "BLDG_HEIGHT_FT": 47,
+        "BLDG_MAP_NUMBER": "45",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:SSV",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932498,
+          33.426634
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "STAD",
+        "BLDG_NAME": "SUN DEVIL STADIUM",
+        "BLDG_NUMBER": "059",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. VETERAN'S WAY",
+        "BLDG_GSF": 771429,
+        "BLDG_HEIGHT_FT": 126.5,
+        "BLDG_MAP_NUMBER": "59",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:STAD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933619,
+          33.426641
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "STAD",
+        "BLDG_NAME": "SUN DEVIL STADIUM SUITES",
+        "BLDG_NUMBER": "059D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. VETERAN'S WAY",
+        "BLDG_GSF": 56466,
+        "BLDG_HEIGHT_FT": 186,
+        "BLDG_MAP_NUMBER": "59D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:STAD",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.936851,
+          33.419875
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "STAUF",
+        "BLDG_NAME": "STAUFFER COMMUNICATION ARTS A",
+        "BLDG_NUMBER": "024A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "950 S. FOREST MALL",
+        "BLDG_GSF": 47366,
+        "BLDG_HEIGHT_FT": 51.25,
+        "BLDG_MAP_NUMBER": "24A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:STAUF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937239,
+          33.419826
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "STAUF",
+        "BLDG_NAME": "STAUFFER COMMUNICATION ARTS B",
+        "BLDG_NUMBER": "024B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "950 S. FOREST MALL",
+        "BLDG_GSF": 36294,
+        "BLDG_HEIGHT_FT": 27.5,
+        "BLDG_MAP_NUMBER": "24B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:STAUF",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933737,
+          33.418624
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "STPV",
+        "BLDG_NAME": "STUDENT PAVILION",
+        "BLDG_NUMBER": "169",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "400 E. ORANGE MALL",
+        "BLDG_GSF": 84218,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "169",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:STPV",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939403,
+          33.419411
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TCA",
+        "BLDG_NAME": "TEMPE CENTER ANNEX",
+        "BLDG_NUMBER": "095E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "18 E. 10TH ST.",
+        "BLDG_GSF": 9856,
+        "BLDG_HEIGHT_FT": 14,
+        "BLDG_MAP_NUMBER": "95E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TCA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932145,
+          33.417442
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "THERM",
+        "BLDG_NAME": "THERMAL ENERGY STORAGE",
+        "BLDG_NUMBER": "X01",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1250 S. McALLISTER AVENUE",
+        "BLDG_GSF": 60515,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X01",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:THERM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933309,
+          33.423354
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TKRHA",
+        "BLDG_NAME": "TOOKER HOUSE A",
+        "BLDG_NUMBER": "162A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. UNIVERSITY DR.",
+        "BLDG_GSF": 102942,
+        "BLDG_HEIGHT_FT": 80.75,
+        "BLDG_MAP_NUMBER": "162A",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TKRHA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932834,
+          33.423178
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TKRHB",
+        "BLDG_NAME": "TOOKER HOUSE B",
+        "BLDG_NUMBER": "162B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. UNIVERSITY DR.",
+        "BLDG_GSF": 246145,
+        "BLDG_HEIGHT_FT": 80.75,
+        "BLDG_MAP_NUMBER": "162B",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TKRHB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932357,
+          33.423019
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TKRHC",
+        "BLDG_NAME": "TOOKER HOUSE C",
+        "BLDG_NUMBER": "162C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "500 E. UNIVERSITY DR.",
+        "BLDG_GSF": 85271,
+        "BLDG_HEIGHT_FT": 80.75,
+        "BLDG_MAP_NUMBER": "162C",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TKRHC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932285,
+          33.423229
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TKRHD",
+        "BLDG_NAME": "TOOKER HOUSE DINING",
+        "BLDG_NUMBER": "162D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "525 E. VETERAN'S WAY",
+        "BLDG_GSF": 40179,
+        "BLDG_HEIGHT_FT": 30,
+        "BLDG_MAP_NUMBER": "162D",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TKRHD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939089,
+          33.419729
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TMPCT",
+        "BLDG_NAME": "TEMPE CENTER (MAIN BLDG)",
+        "BLDG_NUMBER": "095A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "951 S. MILL AVENUE",
+        "BLDG_GSF": 43371,
+        "BLDG_HEIGHT_FT": 20,
+        "BLDG_MAP_NUMBER": "95A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TMPCT",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937567,
+          33.421564
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TOWER",
+        "BLDG_NAME": "TOWER CENTER BUILDING A (EAST)",
+        "BLDG_NUMBER": "023A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "123 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 18026,
+        "BLDG_HEIGHT_FT": 88,
+        "BLDG_MAP_NUMBER": "23A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TOWER",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937829,
+          33.421649
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TOWER",
+        "BLDG_NAME": "TOWER CENTER BUILDING B (WEST)",
+        "BLDG_NUMBER": "023B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "123 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 9912,
+        "BLDG_HEIGHT_FT": 25,
+        "BLDG_MAP_NUMBER": "23B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TOWER",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928006,
+          33.42604
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TRACK",
+        "BLDG_NAME": "SUN ANGEL STADIUM",
+        "BLDG_NUMBER": "098",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "400 S. RURAL ROAD",
+        "BLDG_GSF": 34359,
+        "BLDG_HEIGHT_FT": 60.16666667,
+        "BLDG_MAP_NUMBER": "98",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TRACK",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931103,
+          33.428244
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TTSS",
+        "BLDG_NAME": "TICKET TRAILER/SUN DEVIL STADIUM-N",
+        "BLDG_NUMBER": "R23",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "501 E. RIO SALADO PARKWAY",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "R23",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TTSS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931853,
+          33.420457
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "TYLER",
+        "BLDG_NAME": "TYLER MALL CANTINA",
+        "BLDG_NUMBER": "751",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "540 E. TYLER MALL",
+        "BLDG_GSF": 568,
+        "BLDG_HEIGHT_FT": 11.33333333,
+        "BLDG_MAP_NUMBER": "751",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:TYLER",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933542,
+          33.420951
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UCLUB",
+        "BLDG_NAME": "UNIVERSITY CLUB",
+        "BLDG_NUMBER": "011",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "425 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 12761,
+        "BLDG_HEIGHT_FT": 45.66666667,
+        "BLDG_MAP_NUMBER": "11",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UCLUB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.922176,
+          33.422991
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UNCTRA",
+        "BLDG_NAME": "UNIVERSITY CENTER BLDG. A",
+        "BLDG_NUMBER": "180A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1100 E. UNIVERSITY DR., TEMPE",
+        "BLDG_GSF": 45214,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "180A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UNCTRA",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.921172,
+          33.42324
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UNCTRB",
+        "BLDG_NAME": "UNIVERSITY CENTER BLDG. B",
+        "BLDG_NUMBER": "180B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1130 E. UNIVERSITY DR., TEMPE",
+        "BLDG_GSF": 70832,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "180B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UNCTRB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.920346,
+          33.423239
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UNCTRC",
+        "BLDG_NAME": "UNIVERSITY CENTER BLDG. C",
+        "BLDG_NUMBER": "180C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1150 E. UNIVERSITY DR., TEMPE",
+        "BLDG_GSF": 71666,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "180C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UNCTRC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935957,
+          33.425145
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UNIVT",
+        "BLDG_NAME": "UNIVERSITY TOWERS",
+        "BLDG_NUMBER": "142",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "525 S. FOREST AVENUE",
+        "BLDG_GSF": 182447,
+        "BLDG_HEIGHT_FT": 77,
+        "BLDG_MAP_NUMBER": "142",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UNIVT",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925384,
+          33.411735
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "USB",
+        "BLDG_NAME": "UNIVERSITY SERVICES",
+        "BLDG_NUMBER": "150",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1551 S. RURAL ROAD",
+        "BLDG_GSF": 148101,
+        "BLDG_HEIGHT_FT": 28,
+        "BLDG_MAP_NUMBER": "150",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:USB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92952,
+          33.42156
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "USE",
+        "BLDG_NAME": "URBAN SYSTEMS ENGINEERING",
+        "BLDG_NUMBER": "077",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "651 E. UNIVERSITY DRIVE",
+        "BLDG_GSF": 48198,
+        "BLDG_HEIGHT_FT": 29,
+        "BLDG_MAP_NUMBER": "77",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:USE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932724,
+          33.421993
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "UTN",
+        "BLDG_NAME": "UNIVERSITY TUNNEL NETWORK",
+        "BLDG_NUMBER": "015A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "452 E. ORANGE STREET",
+        "BLDG_GSF": 184010,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "15A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:UTN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928395,
+          33.416237
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VBHAL",
+        "BLDG_NAME": "HAV- VERBENA HALL",
+        "BLDG_NUMBER": "163B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "711 E. LEMON STREET",
+        "BLDG_GSF": 127416,
+        "BLDG_HEIGHT_FT": 47.25,
+        "BLDG_MAP_NUMBER": "163B",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VBHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.925033,
+          33.425072
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDDM",
+        "BLDG_NAME": "VERDE DICKEY DOME",
+        "BLDG_NUMBER": "175",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "511 S. RURAL RD.",
+        "BLDG_GSF": 105505,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "175",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDDM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929569,
+          33.412423
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSB",
+        "BLDG_NAME": "VISTA DEL SOL B",
+        "BLDG_NUMBER": "170B",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 67000,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170B",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929567,
+          33.411817
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSC",
+        "BLDG_NAME": "VISTA DEL SOL C",
+        "BLDG_NUMBER": "170C",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 66812,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170C",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929689,
+          33.412912
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSCB",
+        "BLDG_NAME": "VISTA DEL SOL CABANA/PUMP HOUSE",
+        "BLDG_NUMBER": "172",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 1127,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "172",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSCB",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928999,
+          33.413103
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSCC",
+        "BLDG_NAME": "VISTA DEL SOL COMMUNITY CENTER (A)",
+        "BLDG_NUMBER": "171",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 29798,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "171",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSCC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93015,
+          33.411816
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSD",
+        "BLDG_NAME": "VISTA DEL SOL D",
+        "BLDG_NUMBER": "170D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 93456,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSD",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928973,
+          33.413636
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSDM",
+        "BLDG_NAME": "VISTA DEL SOL DOME",
+        "BLDG_NUMBER": "X33",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X33",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSDM",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930152,
+          33.412422
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSE",
+        "BLDG_NAME": "VISTA DEL SOL E",
+        "BLDG_NUMBER": "170E",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 93526,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170E",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSE",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93003,
+          33.413028
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSF",
+        "BLDG_NAME": "VISTA DEL SOL F",
+        "BLDG_NUMBER": "170F",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 44732,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170F",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930156,
+          33.413634
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSG",
+        "BLDG_NAME": "VISTA DEL SOL G",
+        "BLDG_NUMBER": "170G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 93456,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSG",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929669,
+          33.413267
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSGAZ",
+        "BLDG_NAME": "VISTA DEL SOL PAVILION",
+        "BLDG_NUMBER": "X31",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 1575,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X31",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSGAZ",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929573,
+          33.413635
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSH",
+        "BLDG_NAME": "VISTA DEL SOL H",
+        "BLDG_NUMBER": "170H",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 66899,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170H",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSH",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930159,
+          33.41424
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSI",
+        "BLDG_NAME": "VISTA DEL SOL I",
+        "BLDG_NUMBER": "170I",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 95566,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170I",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSI",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929523,
+          33.414242
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSJ",
+        "BLDG_NAME": "VISTA DEL SOL J - WEST TOWER",
+        "BLDG_NUMBER": "170J",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "671 E. APACHE BLVD. (701 E. APACHE BLVD.)",
+        "BLDG_GSF": 110811,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170J",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSJ",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929561,
+          33.412933
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSJAC",
+        "BLDG_NAME": "VISTA DEL SOL JACUZZI",
+        "BLDG_NUMBER": "X30",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "701 E. APACHE BLVD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X30",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSJAC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928858,
+          33.414243
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSK",
+        "BLDG_NAME": "VISTA DEL SOL K - EAST TOWER",
+        "BLDG_NUMBER": "170K",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "681 E. APACHE BLVD. (701 E. APACHE BLVD.)",
+        "BLDG_GSF": 82604,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "170K",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSK",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928868,
+          33.412157
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSPS",
+        "BLDG_NAME": "VISTA DEL SOL PARKING STRUCTURE",
+        "BLDG_NUMBER": "RP03",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "721 E. APACHE BLVD.",
+        "BLDG_GSF": 489941,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "RP03",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSPS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929205,
+          33.411221
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VDSTC",
+        "BLDG_NAME": "VISTA DEL SOL TRASH COMPACTION",
+        "BLDG_NUMBER": "X32",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "721 E. APACHE BLVD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X32",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VDSTC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.931715,
+          33.414326
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "VVDS",
+        "BLDG_NAME": "VILLAS @ VISTA DEL SOL",
+        "BLDG_NUMBER": "177",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "551 E. APACHE BLVD.",
+        "BLDG_GSF": 181307,
+        "BLDG_HEIGHT_FT": 55.33333333,
+        "BLDG_MAP_NUMBER": "177",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:VVDS",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.939769,
+          33.420131
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WFDU",
+        "BLDG_NAME": "WELLS FARGO DRIVE-UP ATM",
+        "BLDG_NUMBER": "X23",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "941 S. MILL AVE.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X23",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WFDU",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93649,
+          33.423716
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WG",
+        "BLDG_NAME": "WEST GARAGE",
+        "BLDG_NUMBER": "141D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "202 E. 7TH STREET",
+        "BLDG_GSF": 533,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "141D",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WG",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935314,
+          33.421503
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WGHL",
+        "BLDG_NAME": "WRIGLEY HALL",
+        "BLDG_NUMBER": "007",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "800 S. CADY MALL",
+        "BLDG_GSF": 51742,
+        "BLDG_HEIGHT_FT": 49.5,
+        "BLDG_MAP_NUMBER": "7",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WGHL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923308,
+          33.426224
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WGTF",
+        "BLDG_NAME": "WOMENS GYMNASTICS TRAINING FACILITY",
+        "BLDG_NUMBER": "166",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "401 S. RURAL ROAD",
+        "BLDG_GSF": 10733,
+        "BLDG_HEIGHT_FT": 31,
+        "BLDG_MAP_NUMBER": "166",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WGTF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935812,
+          33.419098
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WHALL",
+        "BLDG_NAME": "WEST HALL",
+        "BLDG_NUMBER": "049",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1000 S. CADY MALL",
+        "BLDG_GSF": 32841,
+        "BLDG_HEIGHT_FT": 26,
+        "BLDG_MAP_NUMBER": "49",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WHALL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926911,
+          33.416273
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WILOHAL",
+        "BLDG_NAME": "BARRETT COLLEGE WILLOW HALL",
+        "BLDG_NUMBER": "173G",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 E. LEMON ST.",
+        "BLDG_GSF": 53590,
+        "BLDG_HEIGHT_FT": 55.33333333,
+        "BLDG_MAP_NUMBER": "173G",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WILOHAL",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.935951,
+          33.418517
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WILSN",
+        "BLDG_NAME": "WILSON HALL",
+        "BLDG_NUMBER": "050",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "240 E. ORANGE MALL",
+        "BLDG_GSF": 33713,
+        "BLDG_HEIGHT_FT": 45.75,
+        "BLDG_MAP_NUMBER": "50",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WILSN",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927606,
+          33.425262
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WTC",
+        "BLDG_NAME": "WHITEMAN TENNIS CENTER",
+        "BLDG_NUMBER": "096",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "800 E. 6TH STREET",
+        "BLDG_GSF": 6705,
+        "BLDG_HEIGHT_FT": 22,
+        "BLDG_MAP_NUMBER": "96",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WTC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.92369,
+          33.426521
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WTF",
+        "BLDG_NAME": "WRESTLING TRAINING FACILITY",
+        "BLDG_NUMBER": "156",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "391 S. RURAL ROAD",
+        "BLDG_GSF": 9666,
+        "BLDG_HEIGHT_FT": 20,
+        "BLDG_MAP_NUMBER": "156",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WTF",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923422,
+          33.424789
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WUC",
+        "BLDG_NAME": "WEATHERUP CENTER",
+        "BLDG_NUMBER": "174",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "521 S. RURAL RD.",
+        "BLDG_GSF": 51290,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "174",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WUC",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.932163,
+          33.420569
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "WXLR",
+        "BLDG_NAME": "WEXLER HALL",
+        "BLDG_NUMBER": "057A",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "901 S. PALM WALK",
+        "BLDG_GSF": 98035,
+        "BLDG_HEIGHT_FT": 111.5,
+        "BLDG_MAP_NUMBER": "57A",
+        "ExtractDateTime": 1629237710000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:WXLR",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.926009,
+          33.426829
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X128D",
+        "BLDG_NAME": "WEST STORAGE",
+        "BLDG_NUMBER": "X128D",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "371 S. RURAL ROAD",
+        "BLDG_GSF": 144,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X128D",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X128D",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930178,
+          33.416025
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X28",
+        "BLDG_NAME": "SRC PUMP HOUSE",
+        "BLDG_NUMBER": "X28",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1200 S. MCALLISTER AVE.",
+        "BLDG_GSF": 168,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X28",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X28",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928197,
+          33.411303
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X39",
+        "BLDG_NAME": "GROUNDS DEPARTMENT AGRICULTURAL CHEMICAL STORAGE",
+        "BLDG_NUMBER": "X39",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1603 S. MCALLISTER AVE.",
+        "BLDG_GSF": 334,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X39",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X39",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.937958,
+          33.419911
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X40",
+        "BLDG_NAME": "WEST SUB-STATION (METER AT CP)",
+        "BLDG_NUMBER": "X40",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "951 S. MYRTLE AVE.",
+        "BLDG_GSF": 926,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X40",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X40",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.928228,
+          33.422192
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X41",
+        "BLDG_NAME": "NORTH SUB-STATION (METER #E68972)",
+        "BLDG_NUMBER": "X41",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "711 S. ALPHA DR.",
+        "BLDG_GSF": 3913,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X41",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X41",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927668,
+          33.416833
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X42",
+        "BLDG_NAME": "SOUTH SUB-STATION (METER #J77961)",
+        "BLDG_NUMBER": "X42",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "780 E. LEMON ST.",
+        "BLDG_GSF": 6411,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X42",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X42",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924834,
+          33.410763
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X59",
+        "BLDG_NAME": "LUMBER & STORES STORAGE",
+        "BLDG_NUMBER": "X59",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1711 S. RURAL RD.",
+        "BLDG_GSF": 1314,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X59",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X59",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927207,
+          33.419356
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X62",
+        "BLDG_NAME": "SKYSPACE RAMADA",
+        "BLDG_NUMBER": "X62",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "840 E. TERRACE MALL",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X62",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X62",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929823,
+          33.428129
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X63",
+        "BLDG_NAME": "PARKING LOT 59 NORTH SOLAR",
+        "BLDG_NUMBER": "X63",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "200 S. PACKARD DR., TEMPE",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X63",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X63",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.938302,
+          33.417541
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X72",
+        "BLDG_NAME": "GAMMAGE PKWY SOLAR",
+        "BLDG_NUMBER": "X72",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": null,
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X72",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X72",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.934707,
+          33.418374
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X73",
+        "BLDG_NAME": "ORANGE - CADY MALLS SOLAR",
+        "BLDG_NUMBER": "X73",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": null,
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X73",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X73",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.93606,
+          33.420569
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X74",
+        "BLDG_NAME": "PARKING LOT 11 SOLAR",
+        "BLDG_NUMBER": "X74",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "851 S. FOREST MALL",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X74",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X74",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.933347,
+          33.414368
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X75",
+        "BLDG_NAME": "PARKING LOT 19 SOLAR",
+        "BLDG_NUMBER": "X75",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "331 E. APACHE BLVD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X75",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X75",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.930055,
+          33.417881
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X76",
+        "BLDG_NAME": "PARKING LOT 41 SOLAR",
+        "BLDG_NUMBER": "X76",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "651 E. ORANGE ST.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X76",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X76",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929772,
+          33.424586
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X77",
+        "BLDG_NAME": "PARKING LOT 58 SOLAR",
+        "BLDG_NUMBER": "X77",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "590 S. PACKARD DR.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X77",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X77",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.929631,
+          33.42526
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X78",
+        "BLDG_NAME": "PARKING LOT 59 SOUTH SOLAR",
+        "BLDG_NUMBER": "X78",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "556 S. PACKARD DR.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X78",
+        "ExtractDateTime": 1629237709000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X78",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.924893,
+          33.412017
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X80",
+        "BLDG_NAME": "PARKING LOT 45 SOLAR",
+        "BLDG_NUMBER": "X80",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1551 S. RURAL RD.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X80",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X80",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.921442,
+          33.422781
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X80",
+        "BLDG_NAME": "PARKING LOT 55 WEST SOLAR",
+        "BLDG_NUMBER": "X82",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1130 E. UNIVERSITY DR.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X82",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X80#2",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.920193,
+          33.422783
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X80",
+        "BLDG_NAME": "PARKING LOT 55 EAST SOLAR",
+        "BLDG_NUMBER": "X81",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1150 E. UNIVERSITY DR.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X81",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X80#2",
+        "_role": "anchor"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.919845,
+          33.425568
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X88",
+        "BLDG_NAME": "PUMP & ELECTRICAL STATION",
+        "BLDG_NUMBER": "X88",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "490 S. DORSEY LN.",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X88",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X88",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.927197,
+          33.420393
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "X95",
+        "BLDG_NAME": "CARBON TREE",
+        "BLDG_NUMBER": "X95",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "846 E. TYLER STREET",
+        "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X95",
+        "ExtractDateTime": 1629237715000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:X95",
+        "_role": "primary"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.923834,
+          33.411699
+        ]
+      },
+      "properties": {
+        "BLDG_CODE": "ZWO",
+        "BLDG_NAME": "ZERO WASTE OFFICE",
+        "BLDG_NUMBER": "X86",
+        "BLDG_CAMPUS_CODE": "MC",
+        "BLDG_ADDRESS": "1422 S. JEN TILLY LANE",
+        "BLDG_GSF": 2168,
+        "BLDG_HEIGHT_FT": 0,
+        "BLDG_MAP_NUMBER": "X86",
+        "ExtractDateTime": 1629237714000,
+        "EditDate": 1629339423222,
+        "_bldgId": "bldg:ZWO",
+        "_role": "primary"
+      }
+    }
+  ]
+}

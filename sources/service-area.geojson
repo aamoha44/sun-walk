@@ -1,0 +1,32 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Walk service area (provisional)",
+        "decision": "PROVISIONAL: see START/07-open-decisions.md#D-003",
+        "extent": "Core campus bounded by University Dr (N), Rural Rd (E), Apache Blvd (S), Mill Ave (W), plus a southern corridor to Vista del Sol and a northern corridor to Sun Devil Stadium.",
+        "note": "Hand-authored to the D-003 provisional default (T-010). Owner must confirm the extent before Phase C; buildings outside are outOfServiceArea. Coordinates are [lon, lat] WGS84, 6 dp."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-111.941200, 33.414000],
+            [-111.931000, 33.414000],
+            [-111.931000, 33.407500],
+            [-111.925500, 33.407500],
+            [-111.925500, 33.423200],
+            [-111.929500, 33.423200],
+            [-111.929500, 33.427800],
+            [-111.935800, 33.427800],
+            [-111.935800, 33.423200],
+            [-111.941200, 33.423200],
+            [-111.941200, 33.414000]
+          ]
+        ]
+      }
+    }
+  ]
+}

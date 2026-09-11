@@ -1,0 +1,83 @@
+{
+  "generated": "2026-08-28T18:32:46.198868+00:00",
+  "source": "https://services5.arcgis.com/aYs2RC3pluEvAuE3/arcgis/rest/services/CampusBuilding/FeatureServer",
+  "entries": [
+    {
+      "file": "ufrm-points.geojson",
+      "url": "https://services5.arcgis.com/aYs2RC3pluEvAuE3/arcgis/rest/services/CampusBuilding/FeatureServer/10/query",
+      "params": {
+        "where": "BLDG_CAMPUS_CODE='MC'",
+        "outFields": "BLDG_CODE,BLDG_NAME,BLDG_NUMBER,BLDG_CAMPUS_CODE,BLDG_ADDRESS,BLDG_GSF,BLDG_HEIGHT_FT,BLDG_MAP_NUMBER,ExtractDateTime,EditDate",
+        "outSR": "4326",
+        "returnGeometry": "true"
+      },
+      "fetched": "2026-08-28T18:32:46.198868+00:00",
+      "sha256": "73c310af67483fe79bbd0e8676039bd064ca0fe3302671d6dbf2203351e61eab",
+      "featureCount": 288,
+      "license": "ASU UFRM \u2014 redistribution unclear, see D-002",
+      "notes": "291 MC features fetched; 288 kept, 3 rejected; 11 duplicate codes (see ufrm-duplicates.json)",
+      "freshness": {
+        "EditDate": {
+          "min": "2021-08-19T02:17:03.222000+00:00",
+          "max": "2021-08-19T02:17:03.222000+00:00",
+          "p50": "2021-08-19T02:17:03.222000+00:00",
+          "n": 288
+        },
+        "ExtractDateTime": {
+          "min": "2021-08-17T22:01:49+00:00",
+          "max": "2021-08-17T22:01:55+00:00",
+          "p50": "2021-08-17T22:01:50+00:00",
+          "n": 288
+        }
+      }
+    },
+    {
+      "file": "ufrm-footprints.geojson",
+      "url": "https://services5.arcgis.com/aYs2RC3pluEvAuE3/arcgis/rest/services/CampusBuilding/FeatureServer/0/query",
+      "params": {
+        "where": "1=1",
+        "geometry": "-111.9412,33.4075,-111.9255,33.4278",
+        "geometryType": "esriGeometryEnvelope",
+        "inSR": "4326",
+        "spatialRel": "esriSpatialRelIntersects",
+        "outFields": "BLDG_CODE,BLDG_NAME,BLDG_NUMBER,BLDG_ADDRESS,Type,Description,map_name,Image,Shape__Area,Shape__Length",
+        "outSR": "4326",
+        "returnGeometry": "true"
+      },
+      "fetched": "2026-08-28T18:32:46.198868+00:00",
+      "sha256": "954ed5beb0b17642f8089a7b7bc64b58a0691cbad81c2d26db9233cca6517378",
+      "featureCount": 216,
+      "license": "ASU UFRM \u2014 redistribution unclear, see D-002",
+      "notes": "layer 0 polygons, envelope-filtered to service-area bbox, joined on BLDG_CODE to the MC set"
+    },
+    {
+      "file": "osm-tempe.geojson",
+      "source": "https://overpass-api.de/api/interpreter",
+      "query": "[out:json][timeout:180];\n(\n  way[\"highway\"~\"^(footway|path|steps|pedestrian|corridor|living_street)$\"](33.4075,-111.9412,33.4278,-111.9255);\n  way[\"highway\"=\"service\"][\"foot\"!=\"no\"](33.4075,-111.9412,33.4278,-111.9255);\n  way[\"highway\"~\"^(residential|tertiary)$\"][\"foot\"=\"yes\"][!\"sidewalk\"](33.4075,-111.9412,33.4278,-111.9255);\n  way[\"area:highway\"=\"footway\"](33.4075,-111.9412,33.4278,-111.9255);\n  node[\"highway\"~\"^(crossing|elevator)$\"](33.4075,-111.9412,33.4278,-111.9255);\n  node[\"entrance\"](33.4075,-111.9412,33.4278,-111.9255);\n  node[\"barrier\"~\"^(gate|bollard|kerb)$\"](33.4075,-111.9412,33.4278,-111.9255);\n);\nout geom qt;",
+      "fetched": "2026-08-29T05:11:27.601923+00:00",
+      "osmTimestamp": "2026-08-29T05:09:41Z",
+      "sha256": "224db36910b03c5f484230cd248e20de8d1a007a243657ab16ae9d5fd6219420",
+      "featureCount": 3003,
+      "centrelineMetres": 134453.0,
+      "license": "ODbL 1.0 (http://opendatacommons.org/licenses/odbl/1.0/); contents DbCL 1.0; \u00a9 OpenStreetMap contributors",
+      "attribution": "\u00a9 OpenStreetMap contributors",
+      "notes": "\u00a72 pedestrian filter over the service-area bbox (-111.9412, 33.4075, -111.9255, 33.4278); 0 plaza polygons flagged for Phase-C skeletonisation"
+    },
+    {
+      "file": "asu-campus-buildings.geojson",
+      "source": "City of Tempe open GIS (dataset URL: TODO \u2014 owner to supply)",
+      "derivedFrom": "hand-extracted GeoJSON export (City of Tempe portal, not committed)",
+      "fetched": "2026-08-30T20:56:26Z",
+      "sha256": "dff8038282dfa1cda33e0ee909549602112c32f7a7f7e538250348a12d899207",
+      "featureCount": 203,
+      "license": "City of Tempe \u2014 open GIS / open data (attribution requested)",
+      "notes": "SUPPLEMENTARY building footprints (02-data-sources.md \u00a71.5). Hand-extracted from a City of Tempe open-GIS Tempe-wide file, then run through scripts/normalize-campus-buildings.py (strip stray prefix, validate, join on BLDG_CODE to the MC set, canonicalize, 6-dp round, sort). NOT a superset of ufrm-footprints.geojson: fills ~29 codes UFRM layer 0 lacks; missing 42 UFRM codes (all Vista del Sol + Adelphi). SOLAR/CANOPY/INFRASTRUCTURE-named polygons (open-air shade canopies, not enclosed footprints) are dropped to the rejected file. `Type` is a coarse auto-fill, not authoritative \u2014 used only to fill UFRM's untyped rows. `Image` is always null. `BLDG_NAME` is retained but the builder never reads it (the ALL-CAPS UFRM name stays canonical)."
+    }
+  ],
+  "reconciliation": {
+    "fetched": 291,
+    "kept": 288,
+    "rejected": 3,
+    "ok": true
+  }
+}

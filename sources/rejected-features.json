@@ -1,0 +1,23 @@
+[
+  {
+    "layer": 10,
+    "code": "184",
+    "number": "184",
+    "name": "RECREATION STORAGE BUILDING",
+    "reason": "null-island coordinates (0, 0) \u2014 see 02-data-sources.md \u00a71.1"
+  },
+  {
+    "layer": 10,
+    "code": "185",
+    "number": "185",
+    "name": "(MULTIPURPOSE ARENA)",
+    "reason": "null-island coordinates (0, 0) \u2014 see 02-data-sources.md \u00a71.1"
+  },
+  {
+    "layer": 10,
+    "code": "X96",
+    "number": "X96",
+    "name": "(UNIVERSITY DRIVE PEDESTRIAN BRIDGE)",
+    "reason": "null-island coordinates (0, 0) \u2014 see 02-data-sources.md \u00a71.1"
+  }
+]

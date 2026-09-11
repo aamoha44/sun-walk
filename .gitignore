@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+.venv/
+.DS_Store
+*.log
+__pycache__/
+*.pyc
+*.tsbuildinfo
+
+# Claude Code local/session state — machine-specific, never shared.
+.claude/settings.local.json
+.claude/scheduled_tasks.lock

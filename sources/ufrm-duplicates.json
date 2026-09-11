@@ -1,0 +1,186 @@
+[
+  {
+    "code": "INTDSA",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:INTDSA",
+        "memberCount": 2,
+        "primaryGsf": 28332.0,
+        "summedGsf": 29084.0,
+        "maxSpanM": 28.6,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "IRISH",
+    "featureCount": 3,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:IRISH",
+        "memberCount": 3,
+        "primaryGsf": 12911.0,
+        "summedGsf": 36395.0,
+        "maxSpanM": 54.6,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "MB",
+    "featureCount": 3,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:MB",
+        "memberCount": 3,
+        "primaryGsf": 48188.0,
+        "summedGsf": 86323.0,
+        "maxSpanM": 54.4,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "MSHAL",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:MSHAL",
+        "memberCount": 2,
+        "primaryGsf": 63348.0,
+        "summedGsf": 64364.0,
+        "maxSpanM": 35.1,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "PABLO",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:PABLO",
+        "memberCount": 2,
+        "primaryGsf": 77484.0,
+        "summedGsf": 79950.0,
+        "maxSpanM": 46.7,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "PSC",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:PSC",
+        "memberCount": 2,
+        "primaryGsf": 54527.0,
+        "summedGsf": 55543.0,
+        "maxSpanM": 37.7,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "SCOB",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:SCOB",
+        "memberCount": 2,
+        "primaryGsf": 126985.0,
+        "summedGsf": 127737.0,
+        "maxSpanM": 54.5,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "STAD",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:STAD",
+        "memberCount": 2,
+        "primaryGsf": 771429.0,
+        "summedGsf": 827895.0,
+        "maxSpanM": 104.0,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "STAUF",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:STAUF",
+        "memberCount": 2,
+        "primaryGsf": 47366.0,
+        "summedGsf": 83660.0,
+        "maxSpanM": 36.5,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "TOWER",
+    "featureCount": 2,
+    "clusterCount": 1,
+    "policy": "\u00a71.4.2 wings (\u2264150 m)",
+    "clusters": [
+      {
+        "id": "bldg:TOWER",
+        "memberCount": 2,
+        "primaryGsf": 18026.0,
+        "summedGsf": 27938.0,
+        "maxSpanM": 26.1,
+        "resolution": "wings"
+      }
+    ]
+  },
+  {
+    "code": "X80",
+    "featureCount": 3,
+    "clusterCount": 2,
+    "policy": "\u00a71.4.1 separate (>150 m)",
+    "clusters": [
+      {
+        "id": "bldg:X80",
+        "memberCount": 1,
+        "primaryGsf": 0.0,
+        "summedGsf": 0.0,
+        "maxSpanM": 0.0,
+        "resolution": "separate"
+      },
+      {
+        "id": "bldg:X80#2",
+        "memberCount": 2,
+        "primaryGsf": 0.0,
+        "summedGsf": 0.0,
+        "maxSpanM": 115.9,
+        "resolution": "separate"
+      }
+    ]
+  }
+]

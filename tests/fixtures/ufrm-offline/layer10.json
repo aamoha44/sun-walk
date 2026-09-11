@@ -1,0 +1,80 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "geometryType": "esriGeometryPoint",
+  "spatialReference": { "wkid": 4326 },
+  "exceededTransferLimit": false,
+  "features": [
+    {
+      "attributes": {
+        "BLDG_CODE": "COOR", "BLDG_NAME": "COOR HALL", "BLDG_NUMBER": "45",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "975 S MYRTLE AVE",
+        "BLDG_GSF": 200000, "BLDG_HEIGHT_FT": 120, "BLDG_MAP_NUMBER": "H6",
+        "ExtractDateTime": 1700000000000, "EditDate": 1629331200000
+      },
+      "geometry": { "x": -111.9327, "y": 33.4195 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "NULLA", "BLDG_NAME": "RECREATION STORAGE BUILDING",
+        "BLDG_NUMBER": "184", "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": null,
+        "BLDG_GSF": 1200, "BLDG_HEIGHT_FT": null, "BLDG_MAP_NUMBER": null,
+        "ExtractDateTime": 1700000000000, "EditDate": 1600000000000
+      },
+      "geometry": { "x": 0, "y": 0 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "NOGEO", "BLDG_NAME": "GHOST", "BLDG_NUMBER": "999",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": null, "BLDG_GSF": 0,
+        "BLDG_HEIGHT_FT": null, "BLDG_MAP_NUMBER": null,
+        "ExtractDateTime": 1700000000000, "EditDate": 1610000000000
+      },
+      "geometry": null
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "STAD", "BLDG_NAME": "SUN DEVIL STADIUM", "BLDG_NUMBER": "50",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "500 E VETERANS WAY",
+        "BLDG_GSF": 771429, "BLDG_HEIGHT_FT": 160, "BLDG_MAP_NUMBER": "K4",
+        "ExtractDateTime": 1700000000000, "EditDate": 1650000000000
+      },
+      "geometry": { "x": -111.9325, "y": 33.4265 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "STAD", "BLDG_NAME": "SUN DEVIL STADIUM PRESS", "BLDG_NUMBER": "50B",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "500 E VETERANS WAY",
+        "BLDG_GSF": 56466, "BLDG_HEIGHT_FT": 90, "BLDG_MAP_NUMBER": "K4",
+        "ExtractDateTime": 1700000000000, "EditDate": 1655000000000
+      },
+      "geometry": { "x": -111.9310, "y": 33.4278 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "MB", "BLDG_NAME": "MUSIC BUILDING", "BLDG_NUMBER": "30",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "50 E GAMMAGE PKWY",
+        "BLDG_GSF": 48188, "BLDG_HEIGHT_FT": 55, "BLDG_MAP_NUMBER": "F7",
+        "ExtractDateTime": 1700000000000, "EditDate": 1640000000000
+      },
+      "geometry": { "x": -111.9340, "y": 33.4200 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "MB", "BLDG_NAME": "MUSIC BUILDING WEST", "BLDG_NUMBER": "30B",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "50 E GAMMAGE PKWY",
+        "BLDG_GSF": 19300, "BLDG_HEIGHT_FT": 45, "BLDG_MAP_NUMBER": "F7",
+        "ExtractDateTime": 1700000000000, "EditDate": 1641000000000
+      },
+      "geometry": { "x": -111.93405, "y": 33.42005 }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "MB", "BLDG_NAME": "MUSIC BUILDING ANNEX", "BLDG_NUMBER": "30C",
+        "BLDG_CAMPUS_CODE": "MC", "BLDG_ADDRESS": "50 E GAMMAGE PKWY",
+        "BLDG_GSF": 18835, "BLDG_HEIGHT_FT": 40, "BLDG_MAP_NUMBER": "F7",
+        "ExtractDateTime": 1700000000000, "EditDate": 1642000000000
+      },
+      "geometry": { "x": -111.9341, "y": 33.4201 }
+    }
+  ]
+}

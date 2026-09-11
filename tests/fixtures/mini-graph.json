@@ -1,0 +1,610 @@
+{
+  "manifest": {
+    "generatedUtc": "2026-08-28T00:00:00.000Z",
+    "builderGitRev": "fixture-mini-v1",
+    "inputs": {},
+    "graphHash": "0f1c7e5a9d3b2c48",
+    "counts": {
+      "buildings": 2,
+      "routableBuildings": 2,
+      "nodes": 12,
+      "entrances": 2,
+      "provisionalEntrances": 1,
+      "crossings": 1,
+      "edges": 14,
+      "totalLengthM": 1575.56,
+      "components": 1
+    }
+  },
+  "buildings": [
+    {
+      "kind": "building",
+      "id": "bldg:COOR",
+      "code": "COOR",
+      "officialName": "COOR HALL",
+      "displayName": "Coor Hall",
+      "category": "academic",
+      "centroid": [
+        -111.9327,
+        33.4195
+      ],
+      "footprintId": null,
+      "footprintSource": "none",
+      "entranceIds": [
+        "node:dvt4xswmfxcg"
+      ],
+      "gsf": null,
+      "address": null,
+      "imageUrl": null,
+      "inServiceArea": true,
+      "routable": true,
+      "unroutableReason": null
+    },
+    {
+      "kind": "building",
+      "id": "bldg:PSY",
+      "code": "PSY",
+      "officialName": "PSYCHOLOGY",
+      "displayName": "Psychology",
+      "category": "academic",
+      "centroid": [
+        -111.9345,
+        33.4178
+      ],
+      "footprintId": null,
+      "footprintSource": "none",
+      "entranceIds": [
+        "node:dida4an76q7d"
+      ],
+      "gsf": null,
+      "address": null,
+      "imageUrl": null,
+      "inServiceArea": true,
+      "routable": true,
+      "unroutableReason": null
+    }
+  ],
+  "nodes": [
+    {
+      "kind": "node",
+      "id": "node:mmmevh5jd34h",
+      "type": "walkway",
+      "position": [
+        -111.9345,
+        33.421
+      ],
+      "label": "Palm Walk / north cross mall"
+    },
+    {
+      "kind": "node",
+      "id": "node:lbyz2kuvxnij",
+      "type": "walkway",
+      "position": [
+        -111.9345,
+        33.4195
+      ],
+      "label": "Palm Walk / University crossing"
+    },
+    {
+      "kind": "node",
+      "id": "node:dj6fmsxtzj63",
+      "type": "walkway",
+      "position": [
+        -111.9345,
+        33.418
+      ],
+      "label": "Palm Walk / south cross mall"
+    },
+    {
+      "kind": "node",
+      "id": "node:fmke5jh366y7",
+      "type": "walkway",
+      "position": [
+        -111.9345,
+        33.4168
+      ],
+      "label": "Palm Walk south end"
+    },
+    {
+      "kind": "node",
+      "id": "node:7kamdejhrq2e",
+      "type": "walkway",
+      "position": [
+        -111.933,
+        33.421
+      ],
+      "label": "Cady Mall / north cross mall"
+    },
+    {
+      "kind": "node",
+      "id": "node:vyyyikquzmuw",
+      "type": "walkway",
+      "position": [
+        -111.933,
+        33.4195
+      ],
+      "label": "Cady Mall / University crossing"
+    },
+    {
+      "kind": "node",
+      "id": "node:deogvogtagaq",
+      "type": "walkway",
+      "position": [
+        -111.933,
+        33.418
+      ],
+      "label": "Cady Mall / south cross mall"
+    },
+    {
+      "kind": "node",
+      "id": "node:6tqoq2ajr6am",
+      "type": "walkway",
+      "position": [
+        -111.933,
+        33.4168
+      ],
+      "label": "Cady Mall south end"
+    },
+    {
+      "kind": "node",
+      "id": "node:27lbsw5af2xs",
+      "type": "crossing",
+      "position": [
+        -111.9338,
+        33.4195
+      ],
+      "label": "University Dr crossing",
+      "signalized": true,
+      "crossingKind": "traffic_signals"
+    },
+    {
+      "kind": "node",
+      "id": "node:63lxrmxh6qnh",
+      "type": "walkway",
+      "position": [
+        -111.9322,
+        33.4195
+      ],
+      "label": "east spur"
+    },
+    {
+      "kind": "node",
+      "id": "node:dvt4xswmfxcg",
+      "type": "entrance",
+      "position": [
+        -111.93292,
+        33.41952
+      ],
+      "label": "Coor Hall west door",
+      "buildingId": "bldg:COOR",
+      "provisional": false,
+      "entranceName": "west"
+    },
+    {
+      "kind": "node",
+      "id": "node:dida4an76q7d",
+      "type": "entrance",
+      "position": [
+        -111.9345,
+        33.41802
+      ],
+      "label": "Psychology north door",
+      "buildingId": "bldg:PSY",
+      "provisional": true,
+      "weak": true,
+      "entranceName": "north"
+    }
+  ],
+  "edges": [
+    {
+      "kind": "edge",
+      "id": "edge:z7jmvjco36wd",
+      "type": "path",
+      "fromNodeId": "node:mmmevh5jd34h",
+      "toNodeId": "node:lbyz2kuvxnij",
+      "geometry": [
+        [
+          -111.9345,
+          33.421
+        ],
+        [
+          -111.9345,
+          33.4195
+        ]
+      ],
+      "lengthM": 166.79,
+      "name": "Palm Walk",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:i5nrdhcm6lza",
+      "type": "path",
+      "fromNodeId": "node:lbyz2kuvxnij",
+      "toNodeId": "node:dj6fmsxtzj63",
+      "geometry": [
+        [
+          -111.9345,
+          33.4195
+        ],
+        [
+          -111.9345,
+          33.418
+        ]
+      ],
+      "lengthM": 166.79,
+      "name": "Palm Walk",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:vw5ov3dauyyn",
+      "type": "path",
+      "fromNodeId": "node:dj6fmsxtzj63",
+      "toNodeId": "node:fmke5jh366y7",
+      "geometry": [
+        [
+          -111.9345,
+          33.418
+        ],
+        [
+          -111.9345,
+          33.4168
+        ]
+      ],
+      "lengthM": 133.43,
+      "name": "Palm Walk",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:irnykdsyk7tc",
+      "type": "path",
+      "fromNodeId": "node:7kamdejhrq2e",
+      "toNodeId": "node:vyyyikquzmuw",
+      "geometry": [
+        [
+          -111.933,
+          33.421
+        ],
+        [
+          -111.933,
+          33.4195
+        ]
+      ],
+      "lengthM": 166.79,
+      "name": "Cady Mall",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:qytdw3hktyhc",
+      "type": "path",
+      "fromNodeId": "node:vyyyikquzmuw",
+      "toNodeId": "node:deogvogtagaq",
+      "geometry": [
+        [
+          -111.933,
+          33.4195
+        ],
+        [
+          -111.933,
+          33.418
+        ]
+      ],
+      "lengthM": 166.79,
+      "name": "Cady Mall",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:4gxctozpa3am",
+      "type": "path",
+      "fromNodeId": "node:deogvogtagaq",
+      "toNodeId": "node:6tqoq2ajr6am",
+      "geometry": [
+        [
+          -111.933,
+          33.418
+        ],
+        [
+          -111.933,
+          33.4168
+        ]
+      ],
+      "lengthM": 133.43,
+      "name": "Cady Mall",
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:g7q5g7ofwb6i",
+      "type": "path",
+      "fromNodeId": "node:fmke5jh366y7",
+      "toNodeId": "node:6tqoq2ajr6am",
+      "geometry": [
+        [
+          -111.9345,
+          33.4168
+        ],
+        [
+          -111.933,
+          33.4168
+        ]
+      ],
+      "lengthM": 139.22,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:nem66cnzupjq",
+      "type": "path",
+      "fromNodeId": "node:mmmevh5jd34h",
+      "toNodeId": "node:7kamdejhrq2e",
+      "geometry": [
+        [
+          -111.9345,
+          33.421
+        ],
+        [
+          -111.93375,
+          33.42105
+        ],
+        [
+          -111.933,
+          33.421
+        ]
+      ],
+      "lengthM": 139.66,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:jdwxcitpfctd",
+      "type": "path",
+      "fromNodeId": "node:dj6fmsxtzj63",
+      "toNodeId": "node:deogvogtagaq",
+      "geometry": [
+        [
+          -111.9345,
+          33.418
+        ],
+        [
+          -111.933,
+          33.418
+        ]
+      ],
+      "lengthM": 139.22,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:lshf3oljvzly",
+      "type": "path",
+      "fromNodeId": "node:lbyz2kuvxnij",
+      "toNodeId": "node:27lbsw5af2xs",
+      "geometry": [
+        [
+          -111.9345,
+          33.4195
+        ],
+        [
+          -111.9338,
+          33.4195
+        ]
+      ],
+      "lengthM": 64.97,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:i3mt22viddxu",
+      "type": "crossing",
+      "fromNodeId": "node:27lbsw5af2xs",
+      "toNodeId": "node:vyyyikquzmuw",
+      "geometry": [
+        [
+          -111.9338,
+          33.4195
+        ],
+        [
+          -111.933,
+          33.4195
+        ]
+      ],
+      "lengthM": 74.25,
+      "name": null,
+      "surface": "asphalt",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": null,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:gah4gsxac4pz",
+      "type": "path",
+      "fromNodeId": "node:vyyyikquzmuw",
+      "toNodeId": "node:63lxrmxh6qnh",
+      "geometry": [
+        [
+          -111.933,
+          33.4195
+        ],
+        [
+          -111.9322,
+          33.4195
+        ]
+      ],
+      "lengthM": 74.25,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:r2zcab7khdty",
+      "type": "link",
+      "fromNodeId": "node:vyyyikquzmuw",
+      "toNodeId": "node:dvt4xswmfxcg",
+      "geometry": [
+        [
+          -111.933,
+          33.4195
+        ],
+        [
+          -111.93292,
+          33.41952
+        ]
+      ],
+      "lengthM": 7.75,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    },
+    {
+      "kind": "edge",
+      "id": "edge:4c2qx7p4bw2d",
+      "type": "link",
+      "fromNodeId": "node:dj6fmsxtzj63",
+      "toNodeId": "node:dida4an76q7d",
+      "geometry": [
+        [
+          -111.9345,
+          33.418
+        ],
+        [
+          -111.9345,
+          33.41802
+        ]
+      ],
+      "lengthM": 2.22,
+      "name": null,
+      "surface": "concrete",
+      "stairs": false,
+      "stepCount": null,
+      "covered": false,
+      "indoor": false,
+      "accessible": true,
+      "shadeIndex": 0.15,
+      "shadeSource": "default",
+      "synthetic": false,
+      "osmWayId": null
+    }
+  ]
+}

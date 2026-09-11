@@ -1,0 +1,567 @@
+{
+  "buildingRecords": 275,
+  "withFootprint": 204,
+  "withoutFootprint": 71,
+  "coveragePct": 74.2,
+  "distinctCodes": 274,
+  "distinctCodesWithFootprint": 204,
+  "withoutFootprintZeroGsf": 39,
+  "withoutFootprintOver50kGsf": [
+    "UNCTRC",
+    "UNCTRB",
+    "WUC"
+  ],
+  "missing": [
+    {
+      "id": "bldg:UNCTRC",
+      "code": "UNCTRC",
+      "name": "UNIVERSITY CENTER BLDG. C",
+      "gsf": 71666
+    },
+    {
+      "id": "bldg:UNCTRB",
+      "code": "UNCTRB",
+      "name": "UNIVERSITY CENTER BLDG. B",
+      "gsf": 70832
+    },
+    {
+      "id": "bldg:WUC",
+      "code": "WUC",
+      "name": "WEATHERUP CENTER",
+      "gsf": 51290
+    },
+    {
+      "id": "bldg:UNCTRA",
+      "code": "UNCTRA",
+      "name": "UNIVERSITY CENTER BLDG. A",
+      "gsf": 45214
+    },
+    {
+      "id": "bldg:ALBER",
+      "code": "ALBER",
+      "name": "FARRINGTON SOFTBALL STADIUM",
+      "gsf": 40531
+    },
+    {
+      "id": "bldg:APMA",
+      "code": "APMA",
+      "name": "ASU PERFORMING & MEDIA ARTS",
+      "gsf": 25503
+    },
+    {
+      "id": "bldg:SDSP",
+      "code": "SDSP",
+      "name": "SUN DEVIL SPORTS PERFORMANCE",
+      "gsf": 24048
+    },
+    {
+      "id": "bldg:SAC",
+      "code": "SAC",
+      "name": "SUN ANGEL CLUBHOUSE",
+      "gsf": 22625
+    },
+    {
+      "id": "bldg:SLSTDM",
+      "code": "SLSTDM",
+      "name": "SOCCER & LACROSSE STADIUM",
+      "gsf": 20804
+    },
+    {
+      "id": "bldg:RROB",
+      "code": "RROB",
+      "name": "1711 S. RURAL RD - BLDG B",
+      "gsf": 12387
+    },
+    {
+      "id": "bldg:SDSN",
+      "code": "SDSN",
+      "name": "SUN DEVIL STADIUM-NORTH LOCKER BLDG",
+      "gsf": 11680
+    },
+    {
+      "id": "bldg:WGTF",
+      "code": "WGTF",
+      "name": "WOMENS GYMNASTICS TRAINING FACILITY",
+      "gsf": 10733
+    },
+    {
+      "id": "bldg:RROC",
+      "code": "RROC",
+      "name": "1711 S. RURAL RD - BLDG D",
+      "gsf": 10485
+    },
+    {
+      "id": "bldg:WTF",
+      "code": "WTF",
+      "name": "WRESTLING TRAINING FACILITY",
+      "gsf": 9666
+    },
+    {
+      "id": "bldg:CHILD",
+      "code": "CHILD",
+      "name": "CAMPUS CHILDRENS CENTER",
+      "gsf": 8825
+    },
+    {
+      "id": "bldg:BTPS",
+      "code": "BTPS",
+      "name": "BATTING TUNNELS @ PACKARD STADIUM",
+      "gsf": 8158
+    },
+    {
+      "id": "bldg:FMMEY",
+      "code": "FMMEY",
+      "name": "FM MATERIALS AND EQUIPMENT YARD",
+      "gsf": 7837
+    },
+    {
+      "id": "bldg:X42",
+      "code": "X42",
+      "name": "SOUTH SUB-STATION (METER #J77961)",
+      "gsf": 6411
+    },
+    {
+      "id": "bldg:X41",
+      "code": "X41",
+      "name": "NORTH SUB-STATION (METER #E68972)",
+      "gsf": 3913
+    },
+    {
+      "id": "bldg:BBTS",
+      "code": "BBTS",
+      "name": "BAND BLDG., TOILETS & STORAGE",
+      "gsf": 3877
+    },
+    {
+      "id": "bldg:RROD",
+      "code": "RROD",
+      "name": "1711 S. RURAL RD - T-FRAME C",
+      "gsf": 3666
+    },
+    {
+      "id": "bldg:BRO",
+      "code": "BRO",
+      "name": "BRO SOFTBALL HITTING FACILITY",
+      "gsf": 3222
+    },
+    {
+      "id": "bldg:176",
+      "code": "176",
+      "name": "GROUNDS MAINTENANCE FACILITY",
+      "gsf": 2862
+    },
+    {
+      "id": "bldg:PWOP",
+      "code": "PWOP",
+      "name": "PALM WALK OVERPASS",
+      "gsf": 2416
+    },
+    {
+      "id": "bldg:ZWO",
+      "code": "ZWO",
+      "name": "ZERO WASTE OFFICE",
+      "gsf": 2168
+    },
+    {
+      "id": "bldg:GPC",
+      "code": "GPC",
+      "name": "GOLF PERFORMANCE CENTER",
+      "gsf": 1847
+    },
+    {
+      "id": "bldg:134A",
+      "code": "134A",
+      "name": "SDS ICE PRODUCTION",
+      "gsf": 1591
+    },
+    {
+      "id": "bldg:X59",
+      "code": "X59",
+      "name": "LUMBER & STORES STORAGE",
+      "gsf": 1314
+    },
+    {
+      "id": "bldg:X40",
+      "code": "X40",
+      "name": "WEST SUB-STATION (METER AT CP)",
+      "gsf": 926
+    },
+    {
+      "id": "bldg:183",
+      "code": "183",
+      "name": "RECREATION AND SPORTS FIELDS RESTROOM",
+      "gsf": 924
+    },
+    {
+      "id": "bldg:RRO",
+      "code": "RRO",
+      "name": "1711 S. RURAL RD - T-FRAME E",
+      "gsf": 681
+    },
+    {
+      "id": "bldg:X28",
+      "code": "X28",
+      "name": "SRC PUMP HOUSE",
+      "gsf": 168
+    },
+    {
+      "id": "bldg:077X",
+      "code": "077X",
+      "name": "TEMPE CAMPUS INFRASTRUCTURE",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:173J",
+      "code": "173J",
+      "name": "BARRETT COLLEGE FIRE PUMP HOUSE",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:186A",
+      "code": "186A",
+      "name": "BRIX APARTMENTS A",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:186B",
+      "code": "186B",
+      "name": "BRIX APARTMENTS B",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:HELM",
+      "code": "HELM",
+      "name": "HELIUM RECOVERY SHED - ADJ 57B&C",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:ISTB7",
+      "code": "ISTB7",
+      "name": "INTERDISCIPLINARY SCIENCE AND TECHNOLOGY BUILDING 7",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L01",
+      "code": "L01",
+      "name": "ANTENNA - STAUFFER HALL WEST",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L03",
+      "code": "L03",
+      "name": "AQUATIC COMPLEX - MAIN AREA",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L04",
+      "code": "L04",
+      "name": "N.E. FIELDS - KAJIKAWA FOOTBALL PRACTICE FIELDS",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L05",
+      "code": "L05",
+      "name": "N.E. FIELDS - BAND PRACTICE FIELD",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L07",
+      "code": "L07",
+      "name": "N.E. FIELDS - SOFTBALL",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L09",
+      "code": "L09",
+      "name": "SUN ANGEL STADIUM - YARD",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L14",
+      "code": "L14",
+      "name": "ENGINEERING GAS CANISTER STOR.",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L16",
+      "code": "L16",
+      "name": "SONORA - EAST AREA",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L167",
+      "code": "L167",
+      "name": "213/215 E. SIXTH ST.",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L17",
+      "code": "L17",
+      "name": "CHOLLA HALL POOL - COURTYARD",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L19",
+      "code": "L19",
+      "name": "SOCCER & LACROSSE FIELD",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L22",
+      "code": "L22",
+      "name": "GROUNDS FENCED YARD 'BONEYARD'",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L28",
+      "code": "L28",
+      "name": "US WEATHER STATION",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L31",
+      "code": "L31",
+      "name": "T-MOBILE MONOPALM AT KARSTEN GC",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L34",
+      "code": "L34",
+      "name": "FIELD 1",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L35",
+      "code": "L35",
+      "name": "FIELD 2",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L36",
+      "code": "L36",
+      "name": "FIELD 3",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:L37",
+      "code": "L37",
+      "name": "FIELD 4",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:SDFCTF",
+      "code": "SDFCTF",
+      "name": "SDFC INTRAMURAL FIELDS",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:TTSS",
+      "code": "TTSS",
+      "name": "TICKET TRAILER/SUN DEVIL STADIUM-N",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:VDSJAC",
+      "code": "VDSJAC",
+      "name": "VISTA DEL SOL JACUZZI",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X63",
+      "code": "X63",
+      "name": "PARKING LOT 59 NORTH SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X72",
+      "code": "X72",
+      "name": "GAMMAGE PKWY SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X73",
+      "code": "X73",
+      "name": "ORANGE - CADY MALLS SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X74",
+      "code": "X74",
+      "name": "PARKING LOT 11 SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X75",
+      "code": "X75",
+      "name": "PARKING LOT 19 SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X76",
+      "code": "X76",
+      "name": "PARKING LOT 41 SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X77",
+      "code": "X77",
+      "name": "PARKING LOT 58 SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X78",
+      "code": "X78",
+      "name": "PARKING LOT 59 SOUTH SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X80",
+      "code": "X80",
+      "name": "PARKING LOT 45 SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X80#2",
+      "code": "X80",
+      "name": "PARKING LOT 55 WEST SOLAR",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X88",
+      "code": "X88",
+      "name": "PUMP & ELECTRICAL STATION",
+      "gsf": 0
+    },
+    {
+      "id": "bldg:X95",
+      "code": "X95",
+      "name": "CARBON TREE",
+      "gsf": 0
+    }
+  ],
+  "combined": {
+    "withFootprint": 233,
+    "coveragePct": 84.7,
+    "gainedFromSupplemental": [
+      "173J",
+      "ALBER",
+      "APMA",
+      "BBTS",
+      "BRO",
+      "BTPS",
+      "CHILD",
+      "FMMEY",
+      "GPC",
+      "HELM",
+      "ISTB7",
+      "L01",
+      "L03",
+      "L14",
+      "L17",
+      "L22",
+      "L31",
+      "SAC",
+      "SDSP",
+      "SLSTDM",
+      "UNCTRA",
+      "UNCTRB",
+      "UNCTRC",
+      "WGTF",
+      "WTF",
+      "WUC",
+      "X28",
+      "X40",
+      "X42"
+    ],
+    "supplementalLacksUfrmHas": [
+      "128H",
+      "ADELA",
+      "ADELB",
+      "ADELC",
+      "ADELE",
+      "ADELS",
+      "ADEMF",
+      "ADENE",
+      "ADENW",
+      "ADESW",
+      "ASUPD",
+      "BDC",
+      "CAVC",
+      "CPS",
+      "MRBLA",
+      "MSB",
+      "PS6",
+      "PS8",
+      "PSHED",
+      "SCD",
+      "SONX",
+      "UNIVT",
+      "USB",
+      "VDSB",
+      "VDSC",
+      "VDSCB",
+      "VDSCC",
+      "VDSD",
+      "VDSDM",
+      "VDSE",
+      "VDSF",
+      "VDSG",
+      "VDSGAZ",
+      "VDSH",
+      "VDSI",
+      "VDSJ",
+      "VDSK",
+      "VDSPS",
+      "VDSTC",
+      "VVDS",
+      "X128D",
+      "X39"
+    ],
+    "stillUncovered": [
+      "RROB",
+      "SDSN",
+      "RROC",
+      "X41",
+      "RROD",
+      "176",
+      "PWOP",
+      "ZWO",
+      "134A",
+      "X59",
+      "183",
+      "RRO",
+      "077X",
+      "186A",
+      "186B",
+      "L04",
+      "L05",
+      "L07",
+      "L09",
+      "L16",
+      "L167",
+      "L19",
+      "L28",
+      "L34",
+      "L35",
+      "L36",
+      "L37",
+      "SDFCTF",
+      "TTSS",
+      "VDSJAC",
+      "X63",
+      "X72",
+      "X73",
+      "X74",
+      "X75",
+      "X76",
+      "X77",
+      "X78",
+      "X80",
+      "X80",
+      "X88",
+      "X95"
+    ],
+    "stillUncoveredZeroGsf": 30,
+    "newProxyOrNoneCount": 42
+  }
+}

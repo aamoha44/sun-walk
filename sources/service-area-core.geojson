@@ -1,0 +1,29 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sun Walk service area — tight core (Phase C first-green target)",
+        "decision": "Phase C plan review 2026-08-28, Q3: build the first green graph against this tight core (Palm Walk / Cady Mall / MU / Hayden / ISTB), then widen sources/service-area.geojson in measured steps.",
+        "note": "~790 m E-W x ~1035 m N-S base rectangle. Not the D-003 extent; a deliberate subset. Pass to the builder with --service-area sources/service-area-core.geojson.",
+        "widening_2026-09-11": "T-025.9: added a rectangular tab on the west edge to bring NEEB Hall in. NEEB sits in a tightly-packed cluster; the notch also caught ART, ARWH, CDS, L01, PS3, STAUF A/B, X40. First concrete step against the D-003 extent question, not a resolution of it.",
+        "widening_2026-09-11b": "T-025.10: widened the same west tab further (now lon -111.9365..-111.939447, spanning the full lat 33.4155..33.421363) to bring in Farmer Education (ED), Education Lecture Hall (EDC), Coor Hall (COOR), and Payne Hall (EDB) as requested, plus natural neighbors in the same corridor: Nelson Fine Arts Center (FAC), Gammage Auditorium (GGMA), ASU at Mirabella (MRBLA), Music Bldg (MUSIC), Tempe Center Annex (TCA), Tempe Center main bldg (TMPCT), and Gammage Pkwy Solar (X72, likely no-footprint). See 08-decisions.md."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-111.939447, 33.4155],
+            [-111.9280, 33.4155],
+            [-111.9280, 33.4248],
+            [-111.9365, 33.4248],
+            [-111.9365, 33.421363],
+            [-111.939447, 33.421363],
+            [-111.939447, 33.4155]
+          ]
+        ]
+      }
+    }
+  ]
+}

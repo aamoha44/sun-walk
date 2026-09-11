@@ -1,0 +1,160 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://sunwalk.local/schemas/graph.schema.json",
+  "title": "Sun Walk build/graph.json",
+  "type": "object",
+  "required": ["manifest", "buildings", "nodes", "edges"],
+  "additionalProperties": false,
+  "properties": {
+    "manifest": { "$ref": "#/$defs/manifest" },
+    "buildings": { "type": "array", "items": { "$ref": "#/$defs/building" } },
+    "nodes": { "type": "array", "items": { "$ref": "#/$defs/node" } },
+    "edges": { "type": "array", "items": { "$ref": "#/$defs/edge" } }
+  },
+  "$defs": {
+    "position": {
+      "type": "array",
+      "minItems": 2,
+      "maxItems": 2,
+      "items": [
+        { "type": "number", "minimum": -112.2, "maximum": -111.7 },
+        { "type": "number", "minimum": 33.3, "maximum": 33.5 }
+      ]
+    },
+    "entityId": { "type": "string", "minLength": 3, "pattern": "^[a-z]+:" },
+    "manifest": {
+      "type": "object",
+      "required": ["generatedUtc", "builderGitRev", "inputs", "graphHash", "counts"],
+      "additionalProperties": false,
+      "properties": {
+        "generatedUtc": { "type": "string", "format": "date-time" },
+        "builderGitRev": { "type": "string", "minLength": 7 },
+        "inputs": {
+          "type": "object",
+          "additionalProperties": { "type": "string", "pattern": "^[0-9a-f]{64}$" }
+        },
+        "graphHash": { "type": "string", "pattern": "^[0-9a-f]{16,64}$" },
+        "counts": {
+          "type": "object",
+          "required": [
+            "buildings", "routableBuildings", "nodes", "entrances",
+            "provisionalEntrances", "crossings", "edges", "totalLengthM", "components"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "buildings": { "type": "integer", "minimum": 1 },
+            "routableBuildings": { "type": "integer", "minimum": 1 },
+            "nodes": { "type": "integer", "minimum": 2 },
+            "entrances": { "type": "integer", "minimum": 1 },
+            "provisionalEntrances": { "type": "integer", "minimum": 0 },
+            "crossings": { "type": "integer", "minimum": 0 },
+            "edges": { "type": "integer", "minimum": 1 },
+            "totalLengthM": { "type": "number", "minimum": 0 },
+            "components": { "type": "integer", "minimum": 1 }
+          }
+        }
+      }
+    },
+    "building": {
+      "type": "object",
+      "required": [
+        "kind", "id", "code", "officialName", "displayName", "category",
+        "centroid", "footprintId", "footprintSource", "entranceIds",
+        "inServiceArea", "routable"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "building" },
+        "id": { "type": "string", "pattern": "^bldg:[A-Z0-9]+(#[0-9]+)?$" },
+        "code": { "type": "string", "pattern": "^[A-Z0-9]+$" },
+        "officialName": { "type": "string", "minLength": 1 },
+        "displayName": { "type": "string", "minLength": 1 },
+        "category": {
+          "enum": ["academic", "administrative", "athletics", "fine-arts",
+                   "housing", "library", "research", "student-services",
+                   "parking", "support", "unknown"]
+        },
+        "centroid": { "$ref": "#/$defs/position" },
+        "footprintId": { "type": ["string", "null"] },
+        "footprintSource": { "enum": ["ufrm", "campus", "proxy", "none"] },
+        "entranceIds": { "type": "array", "items": { "$ref": "#/$defs/entityId" } },
+        "gsf": { "type": ["integer", "null"], "minimum": 0 },
+        "address": { "type": ["string", "null"] },
+        "imageUrl": { "type": ["string", "null"], "format": "uri" },
+        "inServiceArea": { "type": "boolean" },
+        "routable": { "type": "boolean" },
+        "unroutableReason": {
+          "type": ["string", "null"],
+          "enum": ["unknown_building", "same_building", "no_entrance",
+                   "no_footprint", "out_of_service_area",
+                   "no_accessible_route", "disconnected", null]
+        }
+      }
+    },
+    "node": {
+      "type": "object",
+      "required": ["kind", "id", "type", "position"],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "node" },
+        "id": { "type": "string", "pattern": "^node:[a-z2-7]{8,16}$" },
+        "type": { "enum": ["walkway", "entrance", "crossing"] },
+        "position": { "$ref": "#/$defs/position" },
+        "label": { "type": "string" },
+        "buildingId": { "type": "string", "pattern": "^bldg:" },
+        "provisional": { "type": "boolean" },
+        "weak": { "type": "boolean" },
+        "entranceName": { "type": "string" },
+        "signalized": { "type": "boolean" },
+        "crossingKind": { "enum": ["traffic_signals", "marked", "unmarked"] }
+      },
+      "allOf": [
+        {
+          "if": { "properties": { "type": { "const": "entrance" } } },
+          "then": { "required": ["buildingId", "provisional"] }
+        },
+        {
+          "if": { "properties": { "type": { "const": "crossing" } } },
+          "then": { "required": ["signalized"] }
+        }
+      ]
+    },
+    "edge": {
+      "type": "object",
+      "required": [
+        "kind", "id", "type", "fromNodeId", "toNodeId", "geometry", "lengthM",
+        "name", "surface", "stairs", "covered", "indoor", "accessible",
+        "shadeIndex", "shadeSource", "synthetic"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "kind": { "const": "edge" },
+        "id": { "type": "string", "pattern": "^edge:[a-z2-7]{8,16}$" },
+        "type": { "enum": ["path", "steps", "crossing", "link", "plaza", "indoor"] },
+        "fromNodeId": { "type": "string", "pattern": "^node:" },
+        "toNodeId": { "type": "string", "pattern": "^node:" },
+        "geometry": {
+          "type": "array",
+          "minItems": 2,
+          "items": { "$ref": "#/$defs/position" }
+        },
+        "lengthM": { "type": "number", "exclusiveMinimum": 0, "maximum": 2000 },
+        "name": { "type": ["string", "null"] },
+        "surface": {
+          "enum": ["paved", "concrete", "asphalt", "gravel", "grass", "sand", "unknown"]
+        },
+        "stairs": { "type": "boolean" },
+        "stepCount": { "type": ["integer", "null"], "minimum": 1 },
+        "covered": { "type": "boolean" },
+        "indoor": { "type": "boolean" },
+        "accessible": { "type": ["boolean", "null"] },
+        "shadeIndex": { "type": "number", "minimum": 0, "maximum": 1 },
+        "shadeSource": {
+          "enum": ["survey", "covered", "treerow", "adjacency", "default"]
+        },
+        "synthetic": { "type": "boolean" },
+        "osmWayId": { "type": ["integer", "null"] }
+      }
+    }
+  }
+}

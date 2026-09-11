@@ -1,0 +1,69 @@
+{
+  "objectIdFieldName": "OBJECTID",
+  "geometryType": "esriGeometryPolygon",
+  "spatialReference": { "wkid": 4326 },
+  "exceededTransferLimit": false,
+  "features": [
+    {
+      "attributes": {
+        "BLDG_CODE": "COOR", "BLDG_NAME": "COOR HALL", "BLDG_NUMBER": "45",
+        "BLDG_ADDRESS": "975 S MYRTLE AVE", "Type": "Academic",
+        "Description": "Liberal Arts", "map_name": "Coor Hall",
+        "Image": "https://example.edu/coor.jpg", "Shape__Area": 12000.0,
+        "Shape__Length": 500.0
+      },
+      "geometry": {
+        "rings": [[
+          [-111.93290, 33.41940], [-111.93250, 33.41940],
+          [-111.93250, 33.41965], [-111.93290, 33.41965],
+          [-111.93290, 33.41940]
+        ]]
+      }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "STAD", "BLDG_NAME": "SUN DEVIL STADIUM", "BLDG_NUMBER": "50",
+        "BLDG_ADDRESS": "500 E VETERANS WAY", "Type": "Athletics",
+        "Description": "Stadium", "map_name": "Sun Devil Stadium",
+        "Image": null, "Shape__Area": 60000.0, "Shape__Length": 1100.0
+      },
+      "geometry": {
+        "rings": [[
+          [-111.93330, 33.42600], [-111.93170, 33.42600],
+          [-111.93170, 33.42720], [-111.93330, 33.42720],
+          [-111.93330, 33.42600]
+        ]]
+      }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "MB", "BLDG_NAME": "MUSIC BUILDING", "BLDG_NUMBER": "30",
+        "BLDG_ADDRESS": "50 E GAMMAGE PKWY", "Type": "Fine Arts",
+        "Description": "Herberger", "map_name": "Music Building",
+        "Image": "https://example.edu/mb.jpg", "Shape__Area": 8000.0,
+        "Shape__Length": 380.0
+      },
+      "geometry": {
+        "rings": [[
+          [-111.93430, 33.41985], [-111.93380, 33.41985],
+          [-111.93380, 33.42025], [-111.93430, 33.42025],
+          [-111.93430, 33.41985]
+        ]]
+      }
+    },
+    {
+      "attributes": {
+        "BLDG_CODE": "ZZZ", "BLDG_NAME": "OFF-CAMPUS ANNEX", "BLDG_NUMBER": "900",
+        "BLDG_ADDRESS": "ELSEWHERE", "Type": "Support", "Description": null,
+        "map_name": null, "Image": null, "Shape__Area": 500.0, "Shape__Length": 90.0
+      },
+      "geometry": {
+        "rings": [[
+          [-111.93000, 33.42000], [-111.92980, 33.42000],
+          [-111.92980, 33.42010], [-111.93000, 33.42010],
+          [-111.93000, 33.42000]
+        ]]
+      }
+    }
+  ]
+}

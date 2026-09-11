@@ -1,0 +1,53 @@
+Sun Walk — data attribution and licensing
+=========================================
+
+D-001 resolved 2026-08-28: the owner accepts ODbL for the OpenStreetMap-derived
+pedestrian graph (option A). This NOTICE is the canonical statement; the same
+notice appears in README.md, START/README.md, and
+.claude/reference/sunwalk/02-data-sources.md.
+
+
+PEDESTRIAN GRAPH — OpenStreetMap-derived
+---------------------------------------
+The walkable network Sun Walk routes over is substantially derived from
+OpenStreetMap geometry and is a Derivative Database under ODbL.
+
+  © OpenStreetMap contributors
+
+  This Sun Walk pedestrian graph database is made available under the Open
+  Database License: http://opendatacommons.org/licenses/odbl/1.0/. Any rights in
+  individual contents of the database are licensed under the Database Contents
+  License: http://opendatacommons.org/licenses/dbcl/1.0/
+
+Scope — this applies to every OSM-derived artifact:
+  - sources/osm-tempe.*                     raw / clipped extract
+  - build/graph.json                        the derivative database
+  - build/graph-{hash}.bin and its manifest.json   the shipped runtime form
+  - any GeoJSON export of graph edges or nodes
+
+The Sun Walk map UI MUST display "© OpenStreetMap contributors" wherever the
+route or the graph overlay is shown (MapLibre attribution control — ticket T-050).
+
+A local copy of the ODbL 1.0 and DbCL 1.0 texts may be added under LICENSES/ and
+the URLs above replaced with local paths.
+
+
+BUILDING DATA — ASU UFRM
+-----------------------
+Building footprints, names, categories, addresses, gross square footage, and
+photos come from ASU University Facility Records Management (UFRM):
+https://services5.arcgis.com/aYs2RC3pluEvAuE3/arcgis/rest/services/CampusBuilding/FeatureServer
+
+Internal university data published without an explicit open license — "use
+permitted, redistribution unclear" (see START/07-open-decisions.md#D-002).
+
+UFRM-derived attributes are kept in files SEPARATE from the OSM-derived graph
+(sources/ufrm-*, build/catalog-{hash}.json) so the two licences do not mix. Do
+not merge UFRM attributes into build/graph.json.
+
+
+BASEMAP
+-------
+Development uses https://tiles.openfreemap.org/styles/liberty. Production will
+self-host a PMTiles extract (START/07-open-decisions.md#D-004); its own
+attribution requirements apply at that point.
