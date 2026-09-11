@@ -9,10 +9,11 @@ from-scratch pedestrian graph designed so that entrance-level, accessibility-
 aware routing is the point of the system — not a checkbox bolted on after
 the fact.
 
-**[Live demo →](https://aamoha44.github.io/sun-walk/)** — an
-interactive map of the current build: every routable building, every path
-and crossing, and a yellow pin on every building still waiting on an
-in-person accessible-entrance survey.
+**Live demo:** download [`docs/index.html`](./docs/index.html) and open it in
+a browser — no server, no build step, no dependencies. It's a self-contained
+snapshot of the current graph: every routable building, every path and
+crossing, and a yellow pin on every building still waiting on an in-person
+accessible-entrance survey.
 
 ## Why this is harder than it sounds
 
