@@ -9,7 +9,7 @@ from-scratch pedestrian graph designed so that entrance-level, accessibility-
 aware routing is the point of the system — not a checkbox bolted on after
 the fact.
 
-**[Live demo →](https://<your-username>.github.io/sun-walk/)** — an
+**[Live demo →](https://aamoha44.github.io/sun-walk/)** — an
 interactive map of the current build: every routable building, every path
 and crossing, and a yellow pin on every building still waiting on an
 in-person accessible-entrance survey.
